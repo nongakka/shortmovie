@@ -195,6 +195,12 @@ async function saveAllM3U(movies) {
   await fs.writeFile(`m3u/all.m3u`, content);
 }
 
+async function saveAllJSON(movies) {
+  await fs.writeFile(
+    `json/all.json`,
+    JSON.stringify(movies, null, 2)
+  );
+}
 // --------------------
 // MAIN
 // --------------------
@@ -288,7 +294,9 @@ for (const m of allResults) {
     unique.push(m);
   }
 }
-
+// 🔥 save json รวม
+await saveAllJSON(unique);
+console.log("📦 saved: all.json");
 // 🔥 save รวมทุกหมวด
 await saveAllM3U(unique);
 console.log("📺 saved: all.m3u");
