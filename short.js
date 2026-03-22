@@ -184,13 +184,24 @@ async function saveM3U(category, movies) {
   await fs.writeFile(`m3u/${safe}.m3u`, content);
 }
 
+async function saveAllM3U(movies) {
+  let content = "#EXTM3U\n";
+
+  for (const m of movies) {
+    content += `#EXTINF:-1 tvg-logo="${m.logo}" group-title="${m.group}",${m.title}\n`;
+    content += `${m.m3u8}\n\n`;
+  }
+
+  await fs.writeFile(`m3u/all.m3u`, content);
+}
+
 // --------------------
 // MAIN
 // --------------------
 async function run() {
   const browser = await initBrowser();
   const page = await browser.newPage();
-
+  const allResults = [];
 // 👇 เพิ่มตรงนี้
 await page.setUserAgent(
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
@@ -240,11 +251,15 @@ if (movies.length === 0) {
           continue;
         }
 
-        results.push({
-          title: detail.title,
-          logo: detail.poster,
-          m3u8
-        });
+        const movieData = {
+  title: detail.title,
+  logo: detail.poster,
+  m3u8,
+  group: cat.name // 🔥 เพิ่มหมวด
+};
+
+results.push(movieData);
+allResults.push(movieData); // 🔥 เก็บรวม
 
         console.log("✅ OK");
 
@@ -263,8 +278,23 @@ if (movies.length === 0) {
     console.log("💾 saved:", cat.name);
   }
 
-  await browser.close();
-  console.log("\n🎉 DONE");
+  // 🔥 กันลิงก์ซ้ำ
+const seen = new Set();
+const unique = [];
+
+for (const m of allResults) {
+  if (!seen.has(m.m3u8)) {
+    seen.add(m.m3u8);
+    unique.push(m);
+  }
+}
+
+// 🔥 save รวมทุกหมวด
+await saveAllM3U(unique);
+console.log("📺 saved: all.m3u");
+
+await browser.close();
+console.log("\n🎉 DONE");
 }
 
 run();
