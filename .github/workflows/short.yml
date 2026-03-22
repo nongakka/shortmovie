@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 15 * * *" # ทุก 6 ชั่วโมง
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
