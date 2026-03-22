@@ -13,11 +13,12 @@ function sleep(ms) {
 // --------------------
 async function initBrowser() {
   return await puppeteer.launch({
-    headless: "new", // 👈 สำคัญ
+    headless: "new",
     args: [
       "--no-sandbox",
       "--disable-setuid-sandbox",
-      "--disable-blink-features=AutomationControlled"
+      "--disable-dev-shm-usage", // 👈 สำคัญบน action
+      "--disable-gpu"
     ]
   });
 }
