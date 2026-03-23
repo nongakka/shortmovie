@@ -4,18 +4,28 @@ const fs = require("fs");
 
 const BASE = "https://rongyok.com";
 
+// ===== Axios config แบบ browser =====
+const axiosConfig = {
+  headers: {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
+                  "AppleWebKit/537.36 (KHTML, like Gecko) " +
+                  "Chrome/114.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": BASE,
+  },
+};
+
 // ===== ดึง seriesData จากหน้า category =====
 async function scrapeCategoryData(url) {
-  const res = await axios.get(url);
+  const res = await axios.get(url, axiosConfig);
   const html = res.data;
 
-  // regex ดึง JSON จาก <script>
   const match = html.match(/const seriesData = (\[.*?\]);/s);
   if (!match) return [];
 
   const data = JSON.parse(match[1]);
 
-  // map ให้เหมือนโครงสร้างเดิม
   return data.map(item => ({
     id: item.id,
     title: item.title,
@@ -28,27 +38,23 @@ async function scrapeCategoryData(url) {
 // ===== ดึงรายละเอียด + episodes =====
 async function scrapeDetailAndEpisodes(id) {
   const url = `${BASE}/series/${id}`;
-  const res = await axios.get(url);
+  const res = await axios.get(url, axiosConfig);
   const $ = cheerio.load(res.data);
 
-  // title + tag
   const h1 = $("h1.text-red-500");
   const title = h1.clone().children().remove().end().text().trim();
   const tag = h1.find("span").text().trim();
 
-  // image
   let image = $('img').first().attr("src");
   if (image && !image.startsWith("http")) {
     image = `${BASE}/${image.replace(/^\/+/, "")}`;
   }
 
-  // watch url
   const watch_path = $('a[href*="/watch/"]').attr("href");
   if (!watch_path) return null;
   const watch_url = BASE + watch_path;
 
-  // ดึง seriesData ของ watch
-  const watchRes = await axios.get(watch_url);
+  const watchRes = await axios.get(watch_url, axiosConfig);
   const watchHtml = watchRes.data;
 
   let seriesData = null;
@@ -62,14 +68,10 @@ async function scrapeDetailAndEpisodes(id) {
     return null;
   }
 
-  // build episodes
   const episodes = seriesData.episodes.map(ep => ({
     name: `EP${ep.episode_number}`,
     servers: [
-      {
-        name: tag.includes("พากย์ไทย") ? "TH" : "EN",
-        url: ep.video_url
-      }
+      { name: tag.includes("พากย์ไทย") ? "TH" : "EN", url: ep.video_url }
     ]
   }));
 
@@ -98,7 +100,6 @@ async function scrapeDetailAndEpisodes(id) {
         if (playlist) {
           categoryResults.push(playlist);
 
-          // เช็คซ้ำสำหรับ all.json
           const key = playlist.title + "|" + playlist.tag;
           if (!allIds.has(key)) {
             allPlaylists.push(playlist);
@@ -110,14 +111,12 @@ async function scrapeDetailAndEpisodes(id) {
       }
     }
 
-    // ฟังก์ชันแปลงชื่อไฟล์ให้ปลอดภัย
     function safeFilename(url) {
       return url.replace(/[^a-z0-9]/gi, "_").toLowerCase();
     }
 
     const filename = safeFilename(catUrl.split("category=")[1]);
     fs.writeFileSync(`category-${filename}.json`, JSON.stringify(categoryResults, null, 2));
-
     console.log(`✅ หมวด ${filename} บันทึกแล้ว (${categoryResults.length} เรื่อง)`);
   }
 
