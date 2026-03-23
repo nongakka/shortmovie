@@ -6,20 +6,6 @@ const BASE = "https://www.xn--72c9ab1ec1bc6q.online";
 
 const PROXY = "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=";
 
-// 🔥 แปลงเป็น 720p
-function to720(url) {
-  if (!url) return null;
-
-  // 🔥 บังคับ playlist → 720p
-  if (url.includes("playlist.m3u8")) {
-    return url.replace("playlist.m3u8", "720p/video.m3u8");
-  }
-
-  if (url.includes("/720p/")) return url;
-
-  return url.replace(/\/480p\//, "/720p/");
-}
-
 // 🔥 ใส่ proxy
 function toProxy(url) {
   if (!url) return null;
