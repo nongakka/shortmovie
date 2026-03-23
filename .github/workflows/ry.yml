@@ -4,6 +4,11 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+  schedule:
+    - cron: "0 15 * * *" # ทุก 6 ชั่วโมง
+
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
