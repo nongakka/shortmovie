@@ -155,21 +155,44 @@ if (poster && !poster.startsWith("http")) {
 // 4. direct → m3u8
 // --------------------
 async function getM3U8FromDirect(page, url) {
+
+  console.log("🎬 OPEN:", url);
+
+  let found = null;
+
+  // 🔥 ดักทุก request
+  page.on("response", async (res) => {
+    try {
+      const resUrl = res.url();
+
+      if (resUrl.includes(".m3u8")) {
+        console.log("🎯 FOUND M3U8:", resUrl);
+
+        if (!found) {
+          found = resUrl;
+        }
+      }
+
+    } catch {}
+  });
+
   await page.goto(url, {
     waitUntil: "domcontentloaded",
     timeout: 60000
   });
 
-  const html = await page.content();
+  // 🔥 ลอง trigger player
+  try { await page.click("video"); } catch {}
+  try { await page.click(".jwplayer"); } catch {}
 
-  // 🔥 ดึง videoSrc ตรงๆ
-  const match = html.match(/const\s+videoSrc\s*=\s*['"]([^'"]+)['"]/);
+  // 🔥 รอโหลด stream
+  await sleep(5000);
 
-  if (match && match[1]) {
-    return match[1];
+  if (!found) {
+    console.log("❌ NO M3U8 FROM:", url);
   }
 
-  return null;
+  return found;
 }
 // --------------------
 // save m3u
