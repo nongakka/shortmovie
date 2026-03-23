@@ -3,70 +3,71 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 
 const BASE = "https://rongyok.com";
+const PROXY = "https://raspy-sea-8787.hssmnoy.workers.dev";
 
-// ===== ดึง seriesData จากหน้า category =====
+// ===== helper proxy =====
+function proxy(url) {
+  return `${PROXY}?url=${encodeURIComponent(url)}`;
+}
+
+// ===== axios config กัน 403 =====
+const http = axios.create({
+  timeout: 30000,
+  headers: {
+    "User-Agent": "Mozilla/5.0",
+    "Accept": "text/html,application/xhtml+xml",
+  }
+});
+
+// ===== ดึง seriesData =====
 async function scrapeCategoryData(url) {
-  const res = await axios.get(url);
+  const res = await http.get(proxy(url));
   const html = res.data;
 
-  // regex ดึง JSON จาก <script>
   const match = html.match(/const seriesData = (\[.*?\]);/s);
   if (!match) return [];
 
   const data = JSON.parse(match[1]);
 
-  // map ให้เหมือนโครงสร้างเดิม
   return data.map(item => ({
     id: item.id,
     title: item.title,
-    description: item.description,
+    created_at: item.created_at,
+    view_count: item.view_count || 0,
     poster_url: item.poster_url.startsWith("http")
       ? item.poster_url
       : `${BASE}/${item.poster_url.replace(/^\/+/, "")}`,
-    jpg_url: item.jpg_url.startsWith("http")
-      ? item.jpg_url
-      : `${BASE}/${item.jpg_url.replace(/^\/+/, "")}`,
   }));
 }
 
-// ===== ดึงรายละเอียด + episodes =====
+// ===== ดึง episodes =====
 async function scrapeDetailAndEpisodes(id) {
   const url = `${BASE}/series/${id}`;
-  const res = await axios.get(url);
+  const res = await http.get(proxy(url));
   const $ = cheerio.load(res.data);
 
-  // title + tag
   const h1 = $("h1.text-red-500");
   const title = h1.clone().children().remove().end().text().trim();
   const tag = h1.find("span").text().trim();
 
-  // image
   let image = $('img').first().attr("src");
   if (image && !image.startsWith("http")) {
     image = `${BASE}/${image.replace(/^\/+/, "")}`;
   }
 
-  // watch url
   const watch_path = $('a[href*="/watch/"]').attr("href");
   if (!watch_path) return null;
   const watch_url = BASE + watch_path;
 
-  // ดึง seriesData ของ watch
-  const watchRes = await axios.get(watch_url);
+  const watchRes = await http.get(proxy(watch_url));
   const watchHtml = watchRes.data;
 
-  let seriesData = null;
-  const scriptMatch = watchHtml.match(/const seriesData = (\{.*?\});/s);
-  if (scriptMatch) {
-    seriesData = JSON.parse(scriptMatch[1]);
-  }
+  const match = watchHtml.match(/const seriesData = (\{.*?\});/s);
+  if (!match) return null;
 
-  if (!seriesData || !seriesData.episodes) {
-    console.log("❌ หา episodes ไม่เจอ:", title);
-    return null;
-  }
+  const seriesData = JSON.parse(match[1]);
+  if (!seriesData?.episodes) return null;
 
-  // build episodes
   const episodes = seriesData.episodes.map(ep => ({
     name: `EP${ep.episode_number}`,
     servers: [
@@ -77,51 +78,83 @@ async function scrapeDetailAndEpisodes(id) {
     ]
   }));
 
-  return { title, tag, image, episodes };
+  return {
+    title,
+    tag,
+    image,
+    episodes,
+    created_at: seriesData.created_at || new Date().toISOString(),
+    view_count: seriesData.view_count || 0
+  };
 }
 
 // ===== MAIN =====
 (async () => {
-  // เลือกหมวดเดียวที่ต้องการ
-  const catUrl = "https://rongyok.com/category?category=new"; 
-
+  const catUrl = "https://rongyok.com/category?category=new";
   console.log("📂 หมวด:", catUrl);
 
-  let allPlaylists = [];
-  let allIds = new Set(); // สำหรับเช็คซ้ำ
-
   const seriesList = await scrapeCategoryData(catUrl);
-  const categoryResults = [];
+
+  const detailList = [];
 
   for (const item of seriesList) {
     try {
       console.log("  ▶", item.title);
-      const playlist = await scrapeDetailAndEpisodes(item.id);
-      if (playlist) {
-        categoryResults.push(playlist);
-
-        // เช็คซ้ำสำหรับ all.json
-        const key = playlist.title + "|" + playlist.tag;
-        if (!allIds.has(key)) {
-          allPlaylists.push(playlist);
-          allIds.add(key);
-        }
-      }
+      const detail = await scrapeDetailAndEpisodes(item.id);
+      if (detail) detailList.push(detail);
     } catch (err) {
       console.log("  ❌ ข้าม:", item.title);
     }
   }
 
-  // ฟังก์ชันแปลงชื่อไฟล์ให้ปลอดภัย
-  function safeFilename(url) {
-    return url.replace(/[^a-z0-9]/gi, "_").toLowerCase();
+  // ===== แยกหมวดแบบเว็บ =====
+  const playlistsByCategory = {
+    new: [],
+    popular: [],
+    thai: [],
+    sub: []
+  };
+
+  const allPlaylists = [];
+  const allIds = new Set();
+
+  for (const item of detailList) {
+    const key = item.title + "|" + item.tag;
+
+    // all (กันซ้ำ)
+    if (!allIds.has(key)) {
+      allPlaylists.push(item);
+      allIds.add(key);
+    }
+
+    // new / popular
+    playlistsByCategory.new.push(item);
+    playlistsByCategory.popular.push(item);
+
+    // thai / sub
+    if (item.tag.includes("พากย์ไทย")) {
+      playlistsByCategory.thai.push(item);
+    } else if (item.tag.includes("ซับไทย")) {
+      playlistsByCategory.sub.push(item);
+    }
   }
 
-  const filename = safeFilename(catUrl.split("category=")[1]);
-  fs.writeFileSync(`category-${filename}.json`, JSON.stringify(categoryResults, null, 2));
+  // ===== apply logic ตามเว็บ =====
+  playlistsByCategory.new = playlistsByCategory.new
+    .sort((a, b) => new Date(b.created_at) - new Date(a.created_at))
+    .slice(0, 100);
 
-  console.log(`✅ หมวด ${filename} บันทึกแล้ว (${categoryResults.length} เรื่อง)`);
+  playlistsByCategory.popular = playlistsByCategory.popular
+    .sort((a, b) => b.view_count - a.view_count)
+    .slice(0, 100);
+
+  // ===== save =====
+  for (const [name, list] of Object.entries(playlistsByCategory)) {
+    fs.writeFileSync(`category-${name}.json`, JSON.stringify(list, null, 2));
+    console.log(`✅ ${name} (${list.length} เรื่อง)`);
+  }
 
   fs.writeFileSync("all.json", JSON.stringify(allPlaylists, null, 2));
-  console.log(`✅ บันทึก all.json แล้ว (${allPlaylists.length} เรื่องไม่ซ้ำ)`);
+  console.log(`✅ all (${allPlaylists.length} เรื่องไม่ซ้ำ)`);
+
 })();
