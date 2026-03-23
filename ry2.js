@@ -3,8 +3,15 @@ const axios = require("axios");
 
 // ฟังก์ชันดึง seriesData จากหน้าเว็บ
 async function fetchSeriesData() {
-  const url = "https://rongyok.com/category?category=new"; // ดึงหน้าแรกพอ เพราะทุกหมวดใช้ข้อมูลเดียวกัน
-  const res = await axios.get(url);
+  const url = "https://rongyok.com/category?category=new";
+  const res = await axios.get(url, {
+    headers: {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.188 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Referer": "https://rongyok.com/",
+    }
+  });
   const match = res.data.match(/const seriesData = (\[.*\]);/s);
   if (!match) throw new Error("ไม่พบ seriesData ในหน้าเว็บ");
   return JSON.parse(match[1]);
