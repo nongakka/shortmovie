@@ -160,37 +160,43 @@ async function getM3U8FromDirect(page, url) {
 
   let found = null;
 
-  // 🔥 ดักทุก request
-  page.on("response", async (res) => {
-    try {
-      const resUrl = res.url();
+  // ✅ ดัก request (แทน response)
+  page.on("request", (req) => {
+    const reqUrl = req.url();
 
-      if (resUrl.includes(".m3u8")) {
-        console.log("🎯 FOUND M3U8:", resUrl);
+    if (reqUrl.includes(".m3u8")) {
+      console.log("🎯 M3U8:", reqUrl);
 
-        if (!found) {
-          found = resUrl;
-        }
+      if (!found) {
+        found = reqUrl;
       }
-
-    } catch {}
+    }
   });
 
+  // ✅ รอ network เงียบ (สำคัญมาก)
   await page.goto(url, {
-    waitUntil: "domcontentloaded",
+    waitUntil: "networkidle2",
     timeout: 60000
   });
 
-  // 🔥 ลอง trigger player
-  try { await page.click("video"); } catch {}
-  try { await page.click(".jwplayer"); } catch {}
+  // ✅ บังคับให้ video เล่น
+  await page.evaluate(() => {
+    const v = document.querySelector("video");
+    if (v) {
+      v.muted = true;
+      v.play().catch(() => {});
+    }
+  });
 
-  // 🔥 รอโหลด stream
-  await sleep(5000);
+  // ✅ รอให้มันโหลด stream
+  await new Promise(r => setTimeout(r, 8000));
 
   if (!found) {
     console.log("❌ NO M3U8 FROM:", url);
   }
+
+  // ✅ กัน memory leak
+  page.removeAllListeners("request");
 
   return found;
 }
@@ -287,12 +293,8 @@ await pageVideo.close();
           console.log("❌ no m3u8");
           continue;
         }
-
-        // 🔥 แปลงเป็น 720p
-const m3u8_720 = to720(m3u8);
-
-// 🔥 proxy
-const proxyM3U8 = toProxy(m3u8_720) || m3u8_720;
+      
+const proxyM3U8 = toProxy(m3u8) || m3u8;
 
 const movieData = {
   title: detail.title,
@@ -300,7 +302,7 @@ const movieData = {
 
   servers: [
     {
-      name: "HLS 720p",
+      name: "M3U8",
       type: "hls",
       url: proxyM3U8
     },
