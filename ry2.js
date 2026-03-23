@@ -1,7 +1,14 @@
 const fs = require("fs");
+const axios = require("axios");
 
-// โหลด seriesData จากหน้าเว็บ (copy จาก <script>const seriesData = [...]</script>)
-const seriesData = require("./seriesData.json"); // สมมติคุณบันทึก seriesData ดิบไว้
+// ฟังก์ชันดึง seriesData จากหน้าเว็บ
+async function fetchSeriesData() {
+  const url = "https://rongyok.com/category?category=new"; // ดึงหน้าแรกพอ เพราะทุกหมวดใช้ข้อมูลเดียวกัน
+  const res = await axios.get(url);
+  const match = res.data.match(/const seriesData = (\[.*\]);/s);
+  if (!match) throw new Error("ไม่พบ seriesData ในหน้าเว็บ");
+  return JSON.parse(match[1]);
+}
 
 // ฟังก์ชัน filter ตามหมวด
 function filterByCategory(series, category) {
@@ -38,31 +45,40 @@ function buildPlaylist(item) {
   };
 }
 
-// หมวดที่ต้องการ
-const categories = ["new","popular","thai","sub"];
+(async () => {
+  try {
+    console.log("⏳ กำลังโหลด seriesData จากเว็บ...");
+    const seriesData = await fetchSeriesData();
+    console.log(`✅ โหลด seriesData แล้ว (${seriesData.length} เรื่อง)`);
 
-let allPlaylists = [];
-let allIds = new Set();
+    const categories = ["new","popular","thai","sub"];
+    let allPlaylists = [];
+    let allIds = new Set();
 
-for(const cat of categories) {
-  const filtered = filterByCategory(seriesData, cat);
-  const playlists = filtered.map(buildPlaylist);
+    for(const cat of categories) {
+      const filtered = filterByCategory(seriesData, cat);
+      const playlists = filtered.map(buildPlaylist);
 
-  // บันทึกไฟล์แยกหมวด
-  fs.writeFileSync(`category-${cat}.json`, JSON.stringify(playlists, null, 2));
+      // บันทึกไฟล์แยกหมวด
+      fs.writeFileSync(`category-${cat}.json`, JSON.stringify(playlists, null, 2));
 
-  // รวมโดยตัดซ้ำ
-  for(const p of playlists) {
-    const key = p.title + "|" + p.tag;
-    if(!allIds.has(key)) {
-      allPlaylists.push(p);
-      allIds.add(key);
+      // รวมโดยตัดซ้ำ
+      for(const p of playlists) {
+        const key = p.title + "|" + p.tag;
+        if(!allIds.has(key)) {
+          allPlaylists.push(p);
+          allIds.add(key);
+        }
+      }
+
+      console.log(`✅ หมวด ${cat} บันทึกแล้ว (${playlists.length} เรื่อง)`);
     }
+
+    // บันทึกไฟล์รวม
+    fs.writeFileSync("all.json", JSON.stringify(allPlaylists, null, 2));
+    console.log(`✅ บันทึก all.json แล้ว (${allPlaylists.length} เรื่องไม่ซ้ำ)`);
+
+  } catch(err) {
+    console.error("❌ ERROR:", err.message);
   }
-
-  console.log(`✅ หมวด ${cat} บันทึกแล้ว (${playlists.length} เรื่อง)`);
-}
-
-// บันทึกไฟล์รวม
-fs.writeFileSync("all.json", JSON.stringify(allPlaylists, null, 2));
-console.log(`✅ บันทึก all.json แล้ว (${allPlaylists.length} เรื่องไม่ซ้ำ)`);
+})();
