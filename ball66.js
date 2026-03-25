@@ -4,7 +4,7 @@ const fs = require("fs");
 // 🔥 server ทั้งหมด
 const BASES = [
   "https://love.sikoyo3159.workers.dev",
-  "https://love.kopen87949.workers.dev",
+  "https://love.tivov68423.workers.dev",
   "https://love.tecobo5568.workers.dev",
   "https://love.uh6wzyncw9.workers.dev"
 ];
