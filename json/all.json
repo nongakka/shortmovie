@@ -1,241 +1,20 @@
 [
   {
-    "title": "แผนรักมัดใจทรราช",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/ebe25e337293694347825b8c5dea8f65.webp",
+    "title": "ผู้ชายที่หัวใจไม่มีวันลืม",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/daf907733f403b03282bfb3cba2867ca.webp",
     "servers": [
       {
         "name": "M3U8",
         "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/4fe659ec-a3ae-4b91-92f3-15fdba6eaec1/playlist.m3u8"
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/e5e3ac69-ee49-4e48-b501-4b0a322c7da5/playlist.m3u8"
       },
       {
         "name": "Direct",
         "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=953"
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=979"
       }
     ],
-    "group": "หนังใหม่มาเเรง 10"
-  },
-  {
-    "title": "ขอเปลี่ยนชายข้างกาย",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/716caf3f0445587cf8c0e26f05e5cb3c.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/09a5807d-d475-4e09-9d84-26169af8b3ba/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=943"
-      }
-    ],
-    "group": "หนังใหม่มาเเรง 10"
-  },
-  {
-    "title": "รักเก่าข้างโต๊ะทำงาน",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f7f83bf6d13b39edada761c3d7ddca5b.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/d3edb8d7-4af3-44fb-8a0c-8ebc8d2ff66e/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=942"
-      }
-    ],
-    "group": "หนังใหม่มาเเรง 10"
-  },
-  {
-    "title": "จากคนถูกทิ้งสู่ภรรยามหาเศรษฐี",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/9bd3c363f8907582084d49ae41b80e2b.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/2167e50d-a52d-4c89-8f3f-4c418e238b40/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=935"
-      }
-    ],
-    "group": "หนังใหม่มาเเรง 10"
-  },
-  {
-    "title": "กลยุทธ์พิชิตเด็กดีที่รัก",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/17cf186abab5e11d81c7926fa66b74c9.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/81350141-040f-46b4-97a7-228ed97247fd/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=920"
-      }
-    ],
-    "group": "หนังใหม่มาเเรง 10"
-  },
-  {
-    "title": "ยอดชายาพลิกชะตา",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/c8fdf8247737d1b14a5527cfe27beed3.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/f8e5ecae-9c63-44ad-bec1-1ae678af2360/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=913"
-      }
-    ],
-    "group": "หนังใหม่มาเเรง 10"
-  },
-  {
-    "title": "เลิกเขาแล้วไปแต่งกับเจ้านายแทน",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/e16c9aaaf3423faaf6a99e536e37c6c3.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/800f6957-c2a9-4f87-9c33-16f31dee4188/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=911"
-      }
-    ],
-    "group": "หนังใหม่มาเเรง 10"
-  },
-  {
-    "title": "2002อีกครั้ง",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/db3d9d0b2aa8b3f4d2908b28379eccb8.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/e2174580-1f57-4fa8-9de5-d77d95bcc81d/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=901"
-      }
-    ],
-    "group": "หนังใหม่มาเเรง 10"
-  },
-  {
-    "title": "เริ่มจากความบังเอิญ ลงเอยด้วยการถูกรัก",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/a891dd1197c5679cf734f348e789aee2.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/598f6808-a89f-49e4-a3b4-138829a743cd/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=892"
-      }
-    ],
-    "group": "หนังใหม่มาเเรง 10"
-  },
-  {
-    "title": "คู่รักชั่วข้ามคืน",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/ed9a7a4b813f601664a861830bfa8841.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/4ec80e18-94a0-4a65-853c-7f5c8fefeed7/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=887"
-      }
-    ],
-    "group": "หนังใหม่มาเเรง 10"
-  },
-  {
-    "title": "ผู้พิทักษ์ในวันกันดาร",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f7bbb6c9b62399ff27d1994bd50c209d.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/00fa5227-a765-42ff-a0be-3d6b2b8e19b7/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=996"
-      }
-    ],
-    "group": "ข้ามมิติ 39"
-  },
-  {
-    "title": "เจ๊นาคทะลุมิติฉบับติดไอเทมลับ",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/b1b3ed105719ad52f05ce12d01bf3e9c.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/c4a91c37-d204-48c5-bc0c-afe7eff10339/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=995"
-      }
-    ],
-    "group": "ข้ามมิติ 39"
-  },
-  {
-    "title": "ยามเมื่อทั้งจวนได้ยินเสียงหัวใจ",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/c0b0f5253b2b8f6e6bc32ac13b356d58.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/05b64aa2-af05-4697-aa94-3b6c7535abf0/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=989"
-      }
-    ],
-    "group": "ข้ามมิติ 39"
-  },
-  {
-    "title": "ปรับภาพลักษณ์แม่เลี้ยง",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/793ac4c2e4bed295d72a2ee779208d20.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/2ee0be1d-b235-4b22-8374-6d919d83d7d6/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=988"
-      }
-    ],
-    "group": "ข้ามมิติ 39"
+    "group": "หนังใหม่มาเเรง 9"
   },
   {
     "title": "เปิดเกมยุคอดีตฉันเลี้ยงดูท่านอ๋องด้วยมิติเก็บของ",
@@ -252,7 +31,245 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=964"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "หนังใหม่มาเเรง 9"
+  },
+  {
+    "title": "รักจากลา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/338488d4892a06ea553ea10ed3351336.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/941ad8b6-347d-4571-93b9-4c4df0aa1aed/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=962"
+      }
+    ],
+    "group": "หนังใหม่มาเเรง 9"
+  },
+  {
+    "title": "วิวาห์ลวงกลับกลายเป็นรัก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/84fff2d98af157696099fbd25628ce25.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/9e901a88-99c1-4cb6-94f9-bf8526913d5c/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=956"
+      }
+    ],
+    "group": "หนังใหม่มาเเรง 9"
+  },
+  {
+    "title": "แผนรักมัดใจทรราช",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/ebe25e337293694347825b8c5dea8f65.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/4fe659ec-a3ae-4b91-92f3-15fdba6eaec1/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=953"
+      }
+    ],
+    "group": "หนังใหม่มาเเรง 9"
+  },
+  {
+    "title": "ขอเปลี่ยนชายข้างกาย",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/716caf3f0445587cf8c0e26f05e5cb3c.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/09a5807d-d475-4e09-9d84-26169af8b3ba/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=943"
+      }
+    ],
+    "group": "หนังใหม่มาเเรง 9"
+  },
+  {
+    "title": "รักเก่าข้างโต๊ะทำงาน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f7f83bf6d13b39edada761c3d7ddca5b.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/d3edb8d7-4af3-44fb-8a0c-8ebc8d2ff66e/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=942"
+      }
+    ],
+    "group": "หนังใหม่มาเเรง 9"
+  },
+  {
+    "title": "จากคนถูกทิ้งสู่ภรรยามหาเศรษฐี",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/9bd3c363f8907582084d49ae41b80e2b.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/2167e50d-a52d-4c89-8f3f-4c418e238b40/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=935"
+      }
+    ],
+    "group": "หนังใหม่มาเเรง 9"
+  },
+  {
+    "title": "กลยุทธ์พิชิตเด็กดีที่รัก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/17cf186abab5e11d81c7926fa66b74c9.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/81350141-040f-46b4-97a7-228ed97247fd/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=920"
+      }
+    ],
+    "group": "หนังใหม่มาเเรง 9"
+  },
+  {
+    "title": "คำอธิฐานจากหัวใจ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/b2924faffd142efca4d06ee8bdfd2cae.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/a0bea396-2852-4999-b8d7-f4dc53816789/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=1007"
+      }
+    ],
+    "group": "ข้ามมิติ 43"
+  },
+  {
+    "title": "ทะลุมิติเป็นแม่ตัวร้าย",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/e0e2300285a00f148fa308efc9043ba3.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/97cb3a77-95df-46a5-9b1b-d57d2b1aebc8/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=1006"
+      }
+    ],
+    "group": "ข้ามมิติ 43"
+  },
+  {
+    "title": "ข้ามภพมาป่วนหัวใจซื่อจื่อขี้อาย",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/b06a89e415aacce517d598293608e2af.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/9e2ffc4b-cc24-4cc5-aa9b-fede6d7f6fdc/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=1003"
+      }
+    ],
+    "group": "ข้ามมิติ 43"
+  },
+  {
+    "title": "ผู้พิทักษ์ในวันกันดาร",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f7bbb6c9b62399ff27d1994bd50c209d.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/00fa5227-a765-42ff-a0be-3d6b2b8e19b7/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=996"
+      }
+    ],
+    "group": "ข้ามมิติ 43"
+  },
+  {
+    "title": "เจ๊นาคทะลุมิติฉบับติดไอเทมลับ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/b1b3ed105719ad52f05ce12d01bf3e9c.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/c4a91c37-d204-48c5-bc0c-afe7eff10339/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=995"
+      }
+    ],
+    "group": "ข้ามมิติ 43"
+  },
+  {
+    "title": "ยามเมื่อทั้งจวนได้ยินเสียงหัวใจ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/c0b0f5253b2b8f6e6bc32ac13b356d58.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/05b64aa2-af05-4697-aa94-3b6c7535abf0/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=989"
+      }
+    ],
+    "group": "ข้ามมิติ 43"
+  },
+  {
+    "title": "ปรับภาพลักษณ์แม่เลี้ยง",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/793ac4c2e4bed295d72a2ee779208d20.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/2ee0be1d-b235-4b22-8374-6d919d83d7d6/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=988"
+      }
+    ],
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ฉีกพล็อตเดิมขึ้นแท่นตัวแม่ยุค80",
@@ -269,7 +286,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=959"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ย้อนเวลามาป่วนใจนายทหาร",
@@ -286,7 +303,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=955"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "คุณหนูคะพ่อบ้านปีศาจเสียทรงหมดแล้ว",
@@ -303,7 +320,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=950"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "แผนกบฎสะท้านต้าโจว",
@@ -320,7 +337,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=909"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ลิขิตรักหมอเทวดา",
@@ -337,7 +354,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=905"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "อ่านจิตพลิกชะตา",
@@ -354,7 +371,24 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=886"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
+  },
+  {
+    "title": "อภินิหารมาเฟียข้ามภพ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/13abb880471abf5325661abee66a19e6.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/702c3038-2980-4ef0-84e4-be8815685ff2/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=877"
+      }
+    ],
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ข้ามมิติมาเป็นพระชายาสุดแซ่บ",
@@ -371,7 +405,24 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=874"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
+  },
+  {
+    "title": "สาวไทยข้ามภพป่วนใจแม่ทัพ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/ffcd2890a9b143c3a9f4bf4a3a255fd3.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/20023df4-983d-4b07-95bc-a8cbaa74d591/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=860"
+      }
+    ],
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "เสเพลนักข้าจะจัดการให้",
@@ -388,7 +439,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=855"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "การผงาดของฮีโร่ผู้ยากไร้",
@@ -405,7 +456,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=843"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "จ้าวชิงหู่ทะลุมิติพารวย",
@@ -422,7 +473,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=839"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ช่วยภรรยาชิงบังลังก์",
@@ -439,7 +490,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=838"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "เสบียงรักข้ามมิติ",
@@ -456,7 +507,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=836"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ท่านแม่ทัพใหญ่จากซูเปอร์มาร์เก็ต",
@@ -473,7 +524,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=830"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "แม่ทัพข้ามภพมาเป็นภรรยาเศรษฐี",
@@ -490,7 +541,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=819"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ฝ่าบาทข้าเป็นผู้ภักดีอย่างแท้จริง",
@@ -507,7 +558,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=813"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ข้าไม่อยากยุ่งเรื่องในวัง",
@@ -524,7 +575,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=806"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "พลิกฟ้าด้วยมีดเชือดหมู",
@@ -541,7 +592,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=799"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ผจญภัยวุ่นในนิยายที่เขียนเอง",
@@ -558,7 +609,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=791"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ทะลุมิติลิขิตมารัก",
@@ -575,7 +626,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=781"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ข้ามเวลา7ปีเพื่อรักเธอ",
@@ -592,7 +643,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=768"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "หมอหญิงทะลุมิติ",
@@ -609,7 +660,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=763"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "หลงมิติพิชิตใจฝ่าบาท",
@@ -626,7 +677,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=761"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ทะลุมิติมาสะสมรัก2",
@@ -643,7 +694,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=737"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "รัชสมัยของจักรพรรดิผู้ล้างแค้น",
@@ -660,7 +711,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=657"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "นักวิทย์ข้ามภพปรับสูตรรัก",
@@ -677,7 +728,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=622"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "จากชาวนาสู่สวามีของจักรพรรดินี",
@@ -694,7 +745,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=601"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ในอ้อมกอดของข้า",
@@ -711,7 +762,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=321"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ข้ามเวลามาดัดนิสัยคุณพ่อสุดเฮี้ยว",
@@ -728,7 +779,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=315"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ข้ามเวลาเปลี่ยนชะตาขีวิต",
@@ -745,7 +796,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=310"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "พลิกชะตาฮ่องเต้ทะลุมิติ",
@@ -762,7 +813,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=276"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ข้ามภพพลิกรักหักอกฮ่องเต้",
@@ -779,7 +830,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=264"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ข้ามเวลามารักคุณสามี",
@@ -796,7 +847,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=233"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ราตรียามสายลมพัดผ่าน",
@@ -813,7 +864,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=141"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "ข้ามเวลาไปแต่งกับพ่อหม้าย",
@@ -830,7 +881,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=104"
       }
     ],
-    "group": "ข้ามมิติ 39"
+    "group": "ข้ามมิติ 43"
   },
   {
     "title": "เวลาแห่งการลืมเลือน",
@@ -1020,6 +1071,57 @@
     "group": "ครอบครัว 11"
   },
   {
+    "title": "วิวาห์ก่อนรัก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/672668dbba6436bda3005faa86e16fad.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/77171cd1-128c-4903-a905-ac8d33de5ce0/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=1005"
+      }
+    ],
+    "group": "ความรัก 242"
+  },
+  {
+    "title": "คำสาบานในชีวิตใหม่",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/a10263ccd2cc633ce3f420f19ebf7fa8.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/294fb2ac-e8df-4ecb-aa9c-4d6fe8d186eb/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=1001"
+      }
+    ],
+    "group": "ความรัก 242"
+  },
+  {
+    "title": "รักไล่ล่าโชคชะตาพาพบคุณชาย",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/ec6f1c220093e0937bca112c2fd1eeac.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/5a036aa1-c2af-4e3e-90e7-241c3b5f979f/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=1000"
+      }
+    ],
+    "group": "ความรัก 242"
+  },
+  {
     "title": "กับดักรักแห่งอำนาจ",
     "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/11b20cf5836e6f38ea31e69e34caa71a.webp",
     "servers": [
@@ -1034,7 +1136,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=994"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "คู่แท้แห่งโชคชะตา",
@@ -1051,7 +1153,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=993"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ลองก่อนค่อยรัก",
@@ -1068,7 +1170,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=992"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สะไภ้สงครามเพลิง",
@@ -1085,7 +1187,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=991"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สามีจอมเย็นชา",
@@ -1102,7 +1204,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=990"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ใจซ่อนรัก",
@@ -1119,7 +1221,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=983"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สลับดวงรักท่านจอมพล",
@@ -1136,7 +1238,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=982"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ชาตินี้จะไม่รักเธออีกต่อไป",
@@ -1153,7 +1255,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=981"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "กาลเวลาเก็บรัก",
@@ -1170,7 +1272,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=977"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ห้วงรักลึกซึ้ง",
@@ -1187,7 +1289,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=976"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "หย่ารักลวงทวงคืนศักดิ๋ศรี",
@@ -1204,7 +1306,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=975"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักนิรันดร์เคียงคู่",
@@ -1221,7 +1323,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=968"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เธอคือนางเอกของตน",
@@ -1238,7 +1340,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=967"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "พ้นโทษมาเป็นดวงใจคุณชาย",
@@ -1255,24 +1357,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=963"
       }
     ],
-    "group": "ความรัก 238"
-  },
-  {
-    "title": "รักจากลา",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/338488d4892a06ea553ea10ed3351336.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/941ad8b6-347d-4571-93b9-4c4df0aa1aed/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=962"
-      }
-    ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "คุณหนูหกยอดดวงใจตระกูลเทวะ",
@@ -1289,7 +1374,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=954"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "กุหลาบในเปลวเพลิง",
@@ -1306,7 +1391,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=951"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ความลับของคืนนั้น",
@@ -1323,7 +1408,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=946"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "วิวาห์ปลอมป่วนใจ",
@@ -1340,7 +1425,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=945"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ทางเลือกรักครั้งสุดท้าย",
@@ -1357,7 +1442,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=930"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักที่ถูกมองข้าม",
@@ -1374,7 +1459,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=928"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักนี้ไม่มีคำว่าแก่",
@@ -1391,7 +1476,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=924"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ด้วยรักเป็นสัญญา",
@@ -1408,7 +1493,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=923"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เดิมพันรักมหาเศรษฐี",
@@ -1425,7 +1510,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=922"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ม่านหมอกบังใจ",
@@ -1442,7 +1527,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=918"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ซ้อนแผนลวงทวงคืนรัก",
@@ -1459,7 +1544,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=916"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เรื่องบู๊ๆต้องยกให้ภรรยาผม",
@@ -1476,7 +1561,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=915"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักป่วนหัวใจเจ้าพ่อมาเฟีย",
@@ -1493,7 +1578,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=914"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักล้นใจยกให้เธอ",
@@ -1510,7 +1595,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=912"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "จากสัญญาสู่ดวงใจ",
@@ -1527,7 +1612,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=910"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เลห์รักสามีเจ้าชู้",
@@ -1544,7 +1629,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=907"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักที่เคยลึกดั่งทะเล",
@@ -1561,7 +1646,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=906"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ผีเสื้อพ้นคราบ",
@@ -1578,7 +1663,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=902"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ตะวันฉายปลายราตรีกาล",
@@ -1595,7 +1680,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=895"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "จมดิ่งในราตรีขาว",
@@ -1612,7 +1697,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=894"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ผู้ชายแย่งกันแต่ฉันเลือกอิสระ",
@@ -1629,7 +1714,24 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=893"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
+  },
+  {
+    "title": "เริ่มจากความบังเอิญ ลงเอยด้วยการถูกรัก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/a891dd1197c5679cf734f348e789aee2.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/598f6808-a89f-49e4-a3b4-138829a743cd/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=892"
+      }
+    ],
+    "group": "ความรัก 242"
   },
   {
     "title": "ล่าฝันคืนรักในยุค80",
@@ -1646,7 +1748,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=883"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เกมรักสลับหัวใจ",
@@ -1663,7 +1765,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=881"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "กลับมาเอาสามีตัวร้าย",
@@ -1680,7 +1782,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=880"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "วิวาห์ด่วนคุณสี่ผู้คลั่งรัก",
@@ -1697,7 +1799,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=879"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ภารกิจพิชิตใจคุณชาย",
@@ -1714,7 +1816,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=876"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "บุพเพอลเวง",
@@ -1731,7 +1833,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=875"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ศาสตราจารย์ภูริมาแต่งงานกันเถอะ",
@@ -1748,7 +1850,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=872"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "บทพิสูจน์และชีวิตใหม่",
@@ -1765,7 +1867,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=871"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ซ่อนดาว",
@@ -1782,7 +1884,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=869"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักได้ไหมถ้าใจจะเลิฟ",
@@ -1799,7 +1901,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=868"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เพลิงรัก",
@@ -1816,7 +1918,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=867"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "โรงงานโรงรัก",
@@ -1833,7 +1935,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=865"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "คืนลับกับดักหัวใจ",
@@ -1850,7 +1952,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=863"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เมื่อรักแรกสายไปแต่รักใหม่มาถึง",
@@ -1867,7 +1969,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=856"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักซ่อนใจหลังวิวาห์",
@@ -1884,7 +1986,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=852"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "แฟนเก่าที่รัก",
@@ -1901,7 +2003,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=851"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เลห์รักทวงแค้น",
@@ -1918,7 +2020,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=848"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เพลิงรักในสายลม",
@@ -1935,7 +2037,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=847"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "จังหวะจะรัก",
@@ -1952,7 +2054,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=846"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "พี่ข้างบ้านอยากเป็นผัวฉัน",
@@ -1969,7 +2071,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=842"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ความรักที่ลุกโชน",
@@ -1986,7 +2088,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=841"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ใต้เปลือกโลกของเธอ",
@@ -2003,7 +2105,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=835"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "หัวใจที่ได้เริ่มใหม่",
@@ -2020,7 +2122,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=832"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "พลิกชะตานางเอกเป็นรักต้องห้าม",
@@ -2037,7 +2139,24 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=831"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
+  },
+  {
+    "title": "เกาะร้อนรัก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/ce265d0ecafb2c3758af54fa756a1323.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/b1dde270-0313-49ec-aaea-55788ab92a6d/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=829"
+      }
+    ],
+    "group": "ความรัก 242"
   },
   {
     "title": "วันนี้ที่รอคอย",
@@ -2054,7 +2173,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=828"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สาวน้อยร้อยเล่ห์",
@@ -2071,7 +2190,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=826"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "วิวาห์หารัก",
@@ -2088,7 +2207,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=822"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ในชีวิตที่สองขอรักอีกครั้ง",
@@ -2105,7 +2224,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=809"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "คุณอธิคมหลงรักหมดใจ",
@@ -2122,7 +2241,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=808"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เจ้าสาวแก้ดวง",
@@ -2139,7 +2258,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=807"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "พยศรักยัยสายลับ",
@@ -2156,7 +2275,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=801"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ลุงคะแต่งงานกับหนูไหม",
@@ -2173,7 +2292,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=800"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ศัตรูหัวใจ",
@@ -2190,7 +2309,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=798"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ก้าวไปด้วยรัก",
@@ -2207,7 +2326,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=796"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "บอสสาวกับลูกของเรา",
@@ -2224,7 +2343,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=792"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "วันไนท์สแตนด์เปลี่ยนชีวิต",
@@ -2241,7 +2360,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=785"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "กุหลาบเคียงสน",
@@ -2258,7 +2377,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=783"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "จากพี่เลี้ยงสู่ไอดอลบอส",
@@ -2275,7 +2394,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=782"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักร้ายของนายน้อย",
@@ -2292,7 +2411,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=780"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "นิทานกริมม์",
@@ -2309,7 +2428,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=779"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เธอเลือกความตายแต่กลับพบรักแท้",
@@ -2326,7 +2445,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=778"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "แผนรักร้ายพลิกล็อก",
@@ -2343,7 +2462,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=777"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "พันล้านต่อวินาที",
@@ -2360,7 +2479,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=771"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ยัยตัวร้ายสุดน่ารัก",
@@ -2377,7 +2496,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=770"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "พายุร้ายพัดพาใจสู่ชีวิตใหม่",
@@ -2394,7 +2513,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=767"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "อุ้ยพี่สาวเราเข้าผิดหอ",
@@ -2411,7 +2530,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=766"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ท่านประธานขอทวงรักคืน",
@@ -2428,7 +2547,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=765"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ทะลุมิติมาเป็นคุณหนูสุดแซ่บ",
@@ -2445,7 +2564,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=762"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เมียเด็กของคุณอา",
@@ -2462,7 +2581,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=760"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เลห์รักลวงใจ",
@@ -2479,7 +2598,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=759"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ถูกฝังพร้อมความรักของฉัน",
@@ -2496,7 +2615,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=758"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "อุบัติเหตุทำให้ฉันเป็นที่หมายปอง",
@@ -2513,7 +2632,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=757"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักแท้หลังจากเดินหน้าต่อ",
@@ -2530,7 +2649,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=755"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เกมรักทายาทลวง",
@@ -2547,7 +2666,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=751"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "วิวาห์พลั้งรัก",
@@ -2564,7 +2683,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=747"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ผู้ชายของฉันใครก็ห้ามแตะ",
@@ -2581,7 +2700,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=746"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ดีลรักพันล้านที่ไม่ตั้งใจ",
@@ -2598,7 +2717,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=739"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "หัวใจที่เย็บด้วยรัก",
@@ -2615,7 +2734,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=738"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เธอขอให้ฉันเป็นแฟนเธอ",
@@ -2632,7 +2751,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=736"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ภรรยาที่เขาต้องปกป้อง",
@@ -2649,7 +2768,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=732"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ที่รักไม่ต้องร้องไห้ฉันจะไม่ทิ้งเธอ",
@@ -2666,7 +2785,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=731"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สองวิวาห์สองหัวใจ",
@@ -2683,7 +2802,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=730"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ทิ้งรักสามีมหาเศรษฐี",
@@ -2700,7 +2819,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=729"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "บทเรียนต้องห้าม",
@@ -2717,7 +2836,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=728"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ลูกไก่ตัวน้อยในกำมือ",
@@ -2734,7 +2853,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=727"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักลวงหลอก",
@@ -2751,7 +2870,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=725"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักในรอยน้ำตา",
@@ -2768,7 +2887,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=717"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "พ่อของเขาคือคนที่ฉันรัก",
@@ -2785,7 +2904,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=716"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักเก่าโรยรารักใหม่ผลิใบ",
@@ -2802,7 +2921,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=714"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "คุณพ่อสายโหดพ่อสื่อสุดน่ารัก",
@@ -2819,7 +2938,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=712"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "คุณเลขาสุดเนี้ยบของซีอีโอ",
@@ -2836,7 +2955,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=709"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ตัวร้ายนอกบท",
@@ -2853,7 +2972,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=708"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "นางฟ้าหลงรักใยเจ้าสำราญ",
@@ -2870,7 +2989,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=704"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ล่ามสาวที่รัก",
@@ -2887,7 +3006,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=700"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ไฟปราถนาชั่วข้ามคืน",
@@ -2904,7 +3023,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=694"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักร้ายของนายมาเฟีย",
@@ -2921,7 +3040,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=689"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ตัวร้ายกลายเป็นที่รัก",
@@ -2938,7 +3057,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=686"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ทิ้งอดีตไว้ข้างหลังแล้วแต่งงานกับรักแท้",
@@ -2955,7 +3074,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=682"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักนี้ชะตาลิขิต",
@@ -2972,7 +3091,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=681"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักวุ่นวายเมื่อเจ้านายคือแม่เลี้ยง",
@@ -2989,7 +3108,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=680"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "มนต์รักเสียงใจลูกน้อย",
@@ -3006,7 +3125,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=677"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ชะตาที่ถูกเขียนใหม่",
@@ -3023,7 +3142,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=676"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ฉันตกหลุมรักพี่ชายต่างสายเลือด",
@@ -3040,7 +3159,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=675"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เกมลวงใจ",
@@ -3057,7 +3176,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=674"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "แต่งงานอย่างลับๆกับภรรยาผู้โชคดี",
@@ -3074,7 +3193,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=658"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "หัวใจวายกลางบริษัท",
@@ -3091,7 +3210,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=655"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "แต่งงานกับซีอีโอโดยไม่คาดคิด",
@@ -3108,7 +3227,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=654"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สามีของฉันเป็นราชามังกร",
@@ -3125,7 +3244,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=648"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "พันธะเงารักในวังหลวง",
@@ -3142,7 +3261,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=645"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ซินเดอเรล่ากับทายาทต้องสาป",
@@ -3159,7 +3278,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=643"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "บ่วงวิวาห์มาเฟีย",
@@ -3176,7 +3295,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=640"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "หวานใจนายมาเฟีย",
@@ -3193,7 +3312,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=639"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ฉันไม่ใช่ตัวสำรองอีกต่อไป",
@@ -3210,7 +3329,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=638"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "แต่งงานตามแผนผูกพันด้วยรัก",
@@ -3227,7 +3346,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=634"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักในสายหมอก",
@@ -3244,7 +3363,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=632"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เกิดใหม่รักใหม่",
@@ -3261,7 +3380,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=630"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สลับเจ้าบ่าวเปลี่ยนชีวิต",
@@ -3278,7 +3397,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=614"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สามีเด็กความรักไม่มีสิ้นสุด",
@@ -3295,7 +3414,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=602"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "กับดักใจในเงาแค้น",
@@ -3312,7 +3431,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=598"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "จูบไม่พักรักไม่แผ่ว",
@@ -3329,7 +3448,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=592"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ตามจีบคุณอาสุดหล่อ",
@@ -3346,7 +3465,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=588"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "หย่าขาดรักไม่หวนคืน",
@@ -3363,7 +3482,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=564"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ชั่วโมงบินรักของคุณกัปตัน",
@@ -3380,7 +3499,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=548"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "หัวใจบอดี้การ์ด",
@@ -3397,7 +3516,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=529"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ม่านหมอก",
@@ -3414,7 +3533,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=503"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ระบบวิเศษป่วนหัวใจ",
@@ -3431,7 +3550,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=443"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักต่างวัยกับประธานคนซึน",
@@ -3448,7 +3567,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=425"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "วิวาห์รักดั่งฝันลวงตา",
@@ -3465,7 +3584,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=419"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "โชคชะตาพบพาให้เจอ",
@@ -3482,7 +3601,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=409"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สาวใช้ที่รักหัวใจพันล้าน",
@@ -3499,7 +3618,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=406"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักปลอมๆหลงจริงจัง",
@@ -3516,7 +3635,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=396"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักนี้เริ่มจากใบหย่า(พากย์ไทย)",
@@ -3533,7 +3652,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=394"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ด้วยรักเป็นสัญญา",
@@ -3550,7 +3669,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=383"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เช็คอินหัวใจโรงแรมสื่อรัก",
@@ -3567,7 +3686,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=372"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ม่านหมอก",
@@ -3584,7 +3703,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=366"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักวาบหวามวัย50",
@@ -3601,7 +3720,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=322"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ความรักเริ่มต้นจากลูกแฝด",
@@ -3618,7 +3737,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=320"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "กลิ่นสุคนธ์ป่วนหัวใจ",
@@ -3635,7 +3754,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=312"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักล้นใจคุณชายกำมะลอที่รัก",
@@ -3652,7 +3771,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=311"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สาวบ้านนอกป่วนใจนายพล",
@@ -3669,7 +3788,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=306"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "หวนรักกลับคืน",
@@ -3686,7 +3805,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=305"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "มงกุฏกุหลาบ",
@@ -3703,7 +3822,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=304"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักมิอาจพูดไป",
@@ -3720,7 +3839,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=303"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "คุณภรรยาเสียงหวานแห่งยุค80",
@@ -3737,7 +3856,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=301"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สัญญารักมัดใจเธอ",
@@ -3754,7 +3873,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=300"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เจ้านายคลั่งรักฉันสุดๆ",
@@ -3771,7 +3890,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=298"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "วิวาห์บังเอิญ",
@@ -3788,7 +3907,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=297"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ฉันแต่งงานกับหนุ่มขี้อ้อน",
@@ -3805,7 +3924,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=295"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักซ่อนเร้น",
@@ -3822,7 +3941,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=293"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "หมดใจให้เธอคนเดียว",
@@ -3839,7 +3958,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=288"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ดั่งสายธารชโลมใจ",
@@ -3856,7 +3975,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=285"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "คุณชายมาเฟียครับรับใจผมไปที",
@@ -3873,7 +3992,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=281"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "คำสาปรักท่านประธาน",
@@ -3890,7 +4009,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=274"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "มาเฟียคลั่งรัก",
@@ -3907,7 +4026,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=273"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ใจเขาดื้อเลือกแค่เธอ",
@@ -3924,7 +4043,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=270"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ภรรยาหวานใจบอสใหญ่",
@@ -3941,7 +4060,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=267"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ขอไม่เอาผัวโรงงานแล้ว",
@@ -3958,7 +4077,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=260"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "คุณพ่อลับๆของเจ้าตัวแสบ",
@@ -3975,7 +4094,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=258"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "จะเกิดกี่ชาติก็แต่งทายาทเศรษฐี",
@@ -3992,7 +4111,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=257"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักเธอเหมือนยาเสพติด",
@@ -4009,7 +4128,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=254"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ลำนำรักเหมันต์มนต์รักโรงแรมหรู",
@@ -4026,7 +4145,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=250"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "กัปตันที่รัก",
@@ -4043,7 +4162,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=245"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "วิวาห์ด่วนของท่านประธาน",
@@ -4060,7 +4179,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=244"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ฉันกลายเป็นคนในใจของเทพบุตร",
@@ -4077,7 +4196,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=243"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักนี้ขอจองใจเธอ",
@@ -4094,7 +4213,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=242"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักต่างเวลา",
@@ -4111,7 +4230,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=241"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "พรหมลิขิตบันดาลรัก",
@@ -4128,7 +4247,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=240"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "แต่งงานสายฟ้าแลบกับพ่อของลูก",
@@ -4145,7 +4264,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=237"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ยัยหนูแก้วตา",
@@ -4162,7 +4281,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=236"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "คุณอาคะแต่งงานกับหนูเถอะ",
@@ -4179,7 +4298,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=235"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักวุ่นวายของคุณหรง",
@@ -4196,7 +4315,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=234"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ไฟบาปเพลิงราคะ",
@@ -4213,7 +4332,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=231"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ชาตินี้ฉันขอแต่งกับเทพบุตร",
@@ -4230,7 +4349,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=227"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ภรรยาแสนหวานของผม",
@@ -4247,7 +4366,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=224"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "อยู่ดีๆได้สามีเศรษฐีมาเอาใจ",
@@ -4264,7 +4383,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=223"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สลับเกี้ยวบุปผาวิวาห์ท่านอ๋อง",
@@ -4281,7 +4400,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=222"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เมื่อฉันถูกมาเฟียลักพาตัว",
@@ -4298,7 +4417,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=221"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "กะเทาะหัวใจคุณชายมาเฟีย",
@@ -4315,7 +4434,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=218"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "แอบรักให้รู้",
@@ -4332,7 +4451,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=217"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เส้นทางหัวใจไร้การบรรจบ",
@@ -4349,7 +4468,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=216"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ผู้พิพากษาครับผมไม่ใช่เกย์",
@@ -4366,7 +4485,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=215"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เจ้าความรักในม่านเมฆ",
@@ -4383,7 +4502,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=213"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักไม่หลอกอยากบอกว่ารัก",
@@ -4400,7 +4519,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=212"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ลุ้นรักเด็กเลานจ์หรือเจ้านาย",
@@ -4417,7 +4536,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=209"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "อุ้มรักสลับขั้ว",
@@ -4434,7 +4553,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=207"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "วุ่นรักพิชิตใจนายไฮโซ",
@@ -4451,7 +4570,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=206"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ดวงใจเสน่หา",
@@ -4468,7 +4587,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=203"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "หย่าครั้งนี้ฉันจะกลับมารันวงการ",
@@ -4485,7 +4604,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=200"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ปราถนาร้ายกลายเป็นรัก",
@@ -4502,7 +4621,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=198"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ลาก่อนที่รักฉันจะแต่งงานแล้ว",
@@ -4519,7 +4638,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=197"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สามีของฉันคือประธานบริษัท",
@@ -4536,7 +4655,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=192"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "วิวาห์ซ่อนใจ",
@@ -4553,7 +4672,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=187"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เซลล์มือทอง",
@@ -4570,7 +4689,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=185"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "หลังการหย่าร้างเธอทำให้โลกประหลาดใจด้วยสมบัติทั้งหก",
@@ -4587,7 +4706,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=174"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สามีฉันเป็นมหาเศรษฐี",
@@ -4604,7 +4723,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=170"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "แสงตะวันส่องใจ",
@@ -4621,7 +4740,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=161"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "อย่ามาบอกรักในยามสายไป",
@@ -4638,7 +4757,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=160"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "กลิ่นหอมอุบัติรัก",
@@ -4655,7 +4774,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=159"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "แสงจันทร์ที่ถูกลบเลือน(เต็มเรื่อง)",
@@ -4672,7 +4791,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=143"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "คำบอกลาไม่มีครั้งที่สาม(เต็มเรื่อง)",
@@ -4689,7 +4808,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=139"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ความทรงจำที่ยังหายใจ(เต็มเรื่อง)",
@@ -4706,7 +4825,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=138"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ค่ำคืนแสนเร่าร้อนกับท่านประธาน(เต็มเรื่อง)",
@@ -4723,7 +4842,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=137"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "โลกนี้ไม่มีสิ่งใดเทียบเท่าคุณ",
@@ -4740,7 +4859,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=103"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ร้อยร้าวผูกพันรัก(เต็มเรื่อง)",
@@ -4757,7 +4876,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=92"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "สัญญารักมัดใจท่านประธาน",
@@ -4774,7 +4893,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=57"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "วิวาห์ฟ้าแลบกับประธานพันล้าน",
@@ -4791,7 +4910,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=55"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "วิวาห์ฟ้าแลบ",
@@ -4808,7 +4927,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=54"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เล่นไม่หยุดยั้งคุณชายมาขอฐานะ",
@@ -4825,7 +4944,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=52"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "หญ้าอ่อนกลับมาแล้ว",
@@ -4842,7 +4961,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=51"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ลัดฟ้าตามล่ารักหลานสาวเศรษฐี",
@@ -4859,7 +4978,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=48"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักใคร่เสน่หา มิสเตอร์ฟู่เป็นที่รักถึงแก่นแท่น",
@@ -4876,7 +4995,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=45"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ภรรยาเด็กฝึกงานตัวน้อยของท่านประธาน",
@@ -4893,7 +5012,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=44"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "นกในกรง",
@@ -4910,7 +5029,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=35"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ตะลึง",
@@ -4927,7 +5046,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=33"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ได้ยินเสียงเธอ",
@@ -4944,7 +5063,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=32"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ฉันเสียซิงให้กับสามีตัวเอง",
@@ -4961,7 +5080,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=28"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "เจ้าสาวจำเป็นของท่านประธาน",
@@ -4978,7 +5097,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=27"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "จนกว่าจะรักกัน",
@@ -4995,7 +5114,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=25"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "คุณฮั่วที่รัก",
@@ -5012,7 +5131,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=23"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ความลับคืนนี้ของสองเรา",
@@ -5029,7 +5148,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=20"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "ความรักที่ว่างเปล่า",
@@ -5046,7 +5165,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=19"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "กามเทพน้อยสื่อรัก",
@@ -5063,7 +5182,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=14"
       }
     ],
-    "group": "ความรัก 238"
+    "group": "ความรัก 242"
   },
   {
     "title": "รักในดวงตาเธอ",
@@ -9384,6 +9503,23 @@
     "group": "ซับไทย 246"
   },
   {
+    "title": "จากไปไม่ต้องหันกลับ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/54f3489660471d008ccb76ab13f024b1.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/56e66bea-adb5-4573-b501-896075ab9a2c/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=1010"
+      }
+    ],
+    "group": "ดราม่า 48"
+  },
+  {
     "title": "เมื่อหัวใจเลิกยื้อ",
     "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/9698e45cae458dc1e4262fce0f99756f.webp",
     "servers": [
@@ -9398,7 +9534,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=726"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "หย่าเพื่อเปล่งประกาย",
@@ -9415,7 +9551,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=651"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "รู้ว่ามีอยู่ก็สายไป",
@@ -9432,7 +9568,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=623"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "โลกที่ไม่มีฉัน",
@@ -9449,7 +9585,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=562"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "เพลิงรักใต้สัญญา",
@@ -9466,7 +9602,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=530"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "อย่าขำ..เมียหลอกให้เซ็นหย่า",
@@ -9483,7 +9619,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=413"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "หัวใจในกำมือนายมาเฟีย",
@@ -9500,7 +9636,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=323"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "หย่ากันวันแต่ง",
@@ -9517,7 +9653,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=319"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "เกมรักปฎิหาริย์",
@@ -9534,7 +9670,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=289"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "ตัดขาดจากหัวใจ",
@@ -9551,7 +9687,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=287"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "สายน้ำไม่ไหลกลับ",
@@ -9568,7 +9704,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=286"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "เลิกรักในวันเกิด",
@@ -9585,7 +9721,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=282"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "เหมันต์ไร้มลทิน",
@@ -9602,7 +9738,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=277"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "เธอทำฉันเสียใจ",
@@ -9619,7 +9755,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=268"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "นิรันทร์จันทรา",
@@ -9636,7 +9772,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=253"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "หลับเพื่อจบลืมเพื่อเริ่ม",
@@ -9653,7 +9789,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=249"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "ขอให้โลกใจดีกับเธอ",
@@ -9670,7 +9806,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=239"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "รักในรอยแค้น",
@@ -9687,7 +9823,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=230"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "ความฝันเบาบางทับดอกไห่ถาง",
@@ -9704,7 +9840,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=228"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "ดาวคนละดวง",
@@ -9721,7 +9857,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=211"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "ยามสายลมพัดมากวนใจ",
@@ -9738,7 +9874,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=210"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "รักนี้หมดอายุ",
@@ -9755,7 +9891,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=204"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "99ครั้งที่ขอแต่ง กับ1วินาทีที่เธอบอกลา",
@@ -9772,7 +9908,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=202"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "รักก่อนแสงแรกของวัน",
@@ -9789,7 +9925,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=186"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "ความจริงในวันเกิด",
@@ -9806,7 +9942,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=183"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "ฟ้าไร้เธอ",
@@ -9823,7 +9959,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=181"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "ภรรยากลับมาเเล้ว2",
@@ -9840,7 +9976,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=173"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "หย่ารักพาลูกพิชิตฝัน",
@@ -9857,7 +9993,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=172"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "อย่าบอกรักฉันในวันที่จากลา",
@@ -9874,7 +10010,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=171"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "รักสามซ้อนซ่อนน้ำตา",
@@ -9891,7 +10027,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=169"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "ความรักที่เลือนลาง",
@@ -9908,7 +10044,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=168"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "รักร้าวในคำลวง",
@@ -9925,7 +10061,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=167"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "เกมรักอันตราย",
@@ -9942,7 +10078,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=164"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "หลุดจากรักลวง",
@@ -9959,7 +10095,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=163"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "หลงรักเธอในฤดูที่ไม่มีฉัน",
@@ -9976,7 +10112,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=158"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "คืนวันแต่งงานกลับหย่ากัน",
@@ -9993,7 +10129,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=106"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "เรื่องรักกุหลาบไฟ(เต็มเรื่อง)",
@@ -10010,7 +10146,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=102"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "ทายาทเทวพรหม",
@@ -10027,7 +10163,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=95"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "รักที่ไกลเกินจะไขว่คว้า",
@@ -10044,7 +10180,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=93"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "แผนรักเอาคืนของคุณนายเซิ่ง",
@@ -10061,7 +10197,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=90"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "แหวกฟ้ามาบอกรักคุณ",
@@ -10078,7 +10214,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=89"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "เหยื่อแค้นรัก",
@@ -10095,7 +10231,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=88"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "วิวาห์อลเวง",
@@ -10112,7 +10248,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=87"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "ลิขิตรักหมอหญิง",
@@ -10129,7 +10265,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=58"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "เล่ห์ร้ายในวังหลวง",
@@ -10146,7 +10282,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=53"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "รักเธอผิดเวลา",
@@ -10163,7 +10299,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=46"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
   },
   {
     "title": "คุณชายปากร้ายกับคุณนายดวงตก",
@@ -10180,7 +10316,41 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=22"
       }
     ],
-    "group": "ดราม่า 47"
+    "group": "ดราม่า 48"
+  },
+  {
+    "title": "ว่าความให้ศัตรู",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/748446ed1b1ef8b0a3112c4012022364.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/9a4f2c0a-a898-4013-aadd-e6bc238a8652/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=1009"
+      }
+    ],
+    "group": "พลิกเกม 42"
+  },
+  {
+    "title": "เทพสงครามหวนคืนกับเจ็ดพี่สาวสุดแกร่ง",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/17a5dcea62f76c79e05a53f919c3796b.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/ef2f3554-dec2-499d-901b-6d020db8cc9c/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=1004"
+      }
+    ],
+    "group": "พลิกเกม 42"
   },
   {
     "title": "จากนรกสู่สวรรค์",
@@ -10197,7 +10367,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=997"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "ไอ้ระบบตัวดีพาพี่ช่วยสาวงาม",
@@ -10214,7 +10384,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=978"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "วุ่นรักสลับสะใภ้",
@@ -10231,7 +10401,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=958"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "หมอหนุ่มผู้เขียนชะตาใหม่",
@@ -10248,7 +10418,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=947"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "ชะตารีเซต",
@@ -10265,7 +10435,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=944"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "การกลับมาของทยาทแชโบล",
@@ -10282,7 +10452,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=937"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "พ่อจ๋าช่วยหนูด้วย",
@@ -10299,7 +10469,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=936"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "รักนี้ไม่มีกัปตัน",
@@ -10316,7 +10486,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=933"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "โชคดีต่อเนื่องไม่หยุดหย่อน",
@@ -10333,7 +10503,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=927"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "พยัคฆ์สาวคืนรัง",
@@ -10350,7 +10520,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=921"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "พ่อไม่อยากดื้นรนแล้ว",
@@ -10367,7 +10537,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=908"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "เกมปั้นชีวิตของหญิงทะเยอทะยาน",
@@ -10384,7 +10554,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=900"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "อเมริกันสไนเปอร์นัดสุดท้าย",
@@ -10401,7 +10571,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=891"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "ชาติใหม่ของเจ้าหญิงสายหวาน",
@@ -10418,7 +10588,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=890"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "ลูกในความลับพ่อมหาเศรษฐี",
@@ -10435,7 +10605,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=827"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "เขยลับตระกูลเศรษฐี",
@@ -10452,7 +10622,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=811"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "ยัยน่ารักแสนโหด",
@@ -10469,7 +10639,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=802"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "ภารกิจลับฉบับคุณพ่อ",
@@ -10486,7 +10656,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=776"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "ฮีโร่ที่ถูกดูหมิ่น",
@@ -10503,7 +10673,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=774"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "คุณพ่อกับเสียงกระซิบน้อย",
@@ -10520,7 +10690,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=769"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "คุณพ่อยามที่แท้เป็นมหาเศรษฐี",
@@ -10537,7 +10707,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=745"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "คุณพ่อส่งของมหาเศรษฐี",
@@ -10554,7 +10724,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=742"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "ภาพพรางรัก",
@@ -10571,7 +10741,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=724"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "ความมืดใต้ดวงอาทิตย์.",
@@ -10588,7 +10758,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=715"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "ฉันคือทายาทเศรษฐี",
@@ -10605,7 +10775,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=713"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "ภรรยาที่ถูกมองข้าม",
@@ -10622,7 +10792,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=711"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "สามีสายมู",
@@ -10639,7 +10809,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=707"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "การกลับมาของเจ้าหญิงเย็นชา",
@@ -10656,7 +10826,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=703"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "คำพิพากษาของหัวใจ",
@@ -10673,7 +10843,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=699"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "จากคุณชายสู่แรงงาน",
@@ -10690,7 +10860,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=698"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "อดีตภรรยาของคุณเป็นนักวิทยาศาสตร์",
@@ -10707,7 +10877,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=695"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "ฉันเปล่งประกายโดยไม่มีเขา",
@@ -10724,7 +10894,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=691"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "เชฟเทวดาผู้หายตัวไป",
@@ -10741,7 +10911,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=248"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "เกมเดิมพันอัจฉริยะ",
@@ -10758,7 +10928,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=156"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "กลเกมโกง",
@@ -10775,7 +10945,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=144"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "การเปิดตัวของเขยมังกร(พากย์ไทย)",
@@ -10792,7 +10962,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=59"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "สาวใช้หน้าเนื้อใจเสือ",
@@ -10809,7 +10979,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=49"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "พนักงานเป็นCEO",
@@ -10826,7 +10996,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=41"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "ชีวิตรันทดของวิภา",
@@ -10843,7 +11013,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=30"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
   },
   {
     "title": "จากการหย่าร้างฉันก็กลายเป็นหลานสาวมหาเศรษฐี",
@@ -10860,7 +11030,58 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=26"
       }
     ],
-    "group": "พลิกเกม 40"
+    "group": "พลิกเกม 42"
+  },
+  {
+    "title": "สามีของข้าคือฮ่องเต้",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/30bab7b446a7f483df569d0141de40a0.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/81284af4-8302-49a5-9fb9-fe0304d455d4/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=1011"
+      }
+    ],
+    "group": "ย้อนยุค 85"
+  },
+  {
+    "title": "พิษโฉมงาม",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/0a8e2454c5a664cb0da069d8dae32964.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/46c58f3e-8132-41c6-8da7-1ab404127c1c/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=1008"
+      }
+    ],
+    "group": "ย้อนยุค 85"
+  },
+  {
+    "title": "ของขวัญรักจากสามี",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/422c1b6d53d0ff7bc10ce96ed956393b.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/2f2c6230-acf0-46ce-9627-fc1013765e40/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=1002"
+      }
+    ],
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ท่านกับข้าใครจะแสดงเก่งกว่ากัน",
@@ -10877,7 +11098,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=987"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "บุปผาเหมันต์ร่วงโรยทั่วธรณีระทมทุกข์",
@@ -10894,7 +11115,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=966"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ดวงใจสวามิภักดิ์ต่อท่าน",
@@ -10911,7 +11132,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=965"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "จอมนางชิงเหิง",
@@ -10928,7 +11149,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=960"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "แมวน้อยของฮองเฮา",
@@ -10945,7 +11166,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=938"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "เจ้าหญิงในแดนร้าง",
@@ -10962,7 +11183,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=934"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "สองชีวิตหนึ่งบังลังก์",
@@ -10979,7 +11200,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=926"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "เขียนชะตาครองรัก",
@@ -10996,7 +11217,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=904"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ทางเลือกใหม่ของเจ้าสาว",
@@ -11013,7 +11234,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=903"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "แต่งผิดตัวแต่รักถูกองค์",
@@ -11030,7 +11251,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=899"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "เกิดใหม่นายพลรักสนิทใจ",
@@ -11047,7 +11268,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=898"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "สวรรค์บัญชาการ",
@@ -11064,7 +11285,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=897"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ชาตินี้ขอไม่ง้อผู้ชายสารเลว",
@@ -11081,7 +11302,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=885"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "พันธนาการแห่งรัก",
@@ -11098,7 +11319,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=882"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "หงส์คืนบังลังก์",
@@ -11115,7 +11336,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=878"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "เลห์รักหอประจิม",
@@ -11132,7 +11353,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=873"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "บุปผาสลับบัลลังก์",
@@ -11149,7 +11370,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=866"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ป่วนใจรักท่านอ๋อง",
@@ -11166,7 +11387,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=861"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "เส้นทางจากศูนย์สู่เสนาบดี",
@@ -11183,7 +11404,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=858"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "การล้างแค้นในงานเลี้ยงหลวง",
@@ -11200,7 +11421,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=857"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "รักต้องห้ามใต้เงาอำนาจ",
@@ -11217,7 +11438,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=854"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "พระชายาสุดบ๊อง",
@@ -11234,7 +11455,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=850"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "รักแท้ในจวนอ๋อง",
@@ -11251,7 +11472,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=845"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "เผลออ่อยผิดอ๋อง",
@@ -11268,7 +11489,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=844"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ดุจจันทราเคียงวิมาน",
@@ -11285,7 +11506,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=837"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ดวงใจมีรักท่านหารู้หรือไม่",
@@ -11302,7 +11523,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=834"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "สตรีล้างชะตา",
@@ -11319,7 +11540,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=821"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "นางพญาหงส์",
@@ -11336,7 +11557,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=820"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "หงส์ไฟบรรลัยกัลป์",
@@ -11353,7 +11574,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=818"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ท่านอ๋องโปรดหย่ากับข้า",
@@ -11370,7 +11591,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=797"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "เคยถูกทิ้งแต่วันนี้ครองบัลลังก์",
@@ -11387,7 +11608,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=794"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ชีวิตนี้ฉันกำหนดเอง",
@@ -11404,7 +11625,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=790"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ความลับใต้ชุดบุรุษสู่ความวุ่นวายในจวนอ๋อง",
@@ -11421,7 +11642,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=773"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ราชินีสายโหดทวงบังลังก์",
@@ -11438,7 +11659,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=764"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ชะตารักข้ามภพ",
@@ -11455,7 +11676,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=756"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "คุณชายสำราญผู้เร้นคม",
@@ -11472,7 +11693,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=750"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "สลับจิตลิขิตชะตา",
@@ -11489,7 +11710,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=749"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ข้านี่แหละผู้ชนะในปีอดยาก",
@@ -11506,7 +11727,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=748"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "หงส์ลิขิตรักข้ามแดน",
@@ -11523,7 +11744,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=744"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "สิ้นกลีบบุปผา",
@@ -11540,7 +11761,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=740"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "จากสนมต่ำต้อยสู่สตรีสูงศักดิ์",
@@ -11557,7 +11778,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=734"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "สาวงามผู้ปราบเสือ",
@@ -11574,7 +11795,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=733"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ฮองเฮาปีศาจผู้มีโชค",
@@ -11591,7 +11812,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=696"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "มงกุฏน้อยตัวป่วน",
@@ -11608,7 +11829,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=692"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "หัวใจทรยศสวรรค์",
@@ -11625,7 +11846,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=687"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ลดหุ่นครองบังลังค์",
@@ -11642,7 +11863,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=685"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "การขึ้นสู่บังลังก์ของฟีนิกซ์",
@@ -11659,7 +11880,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=653"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "กลิ่นแห่งการแก้แค้น",
@@ -11676,7 +11897,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=629"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ลมรักลวงจันทร์",
@@ -11693,7 +11914,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=597"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "หมอหญิงผู้นี้คือจักรพรรดินี",
@@ -11710,7 +11931,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=567"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "วาสนาองค์หญิง",
@@ -11727,7 +11948,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=532"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ซุ่ยซุ่ยหนูน้อยจอมอิทธิฤทธิ์",
@@ -11744,7 +11965,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=450"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ทรายแผดเผาหัวใจ",
@@ -11761,7 +11982,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=414"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ลมรักลวงจันทร์",
@@ -11778,7 +11999,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=403"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "เมื่อบุปผาร่วงโรย",
@@ -11795,7 +12016,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=368"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "เพชรที่หลุดลอย",
@@ -11812,7 +12033,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=313"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "โอรสสวรรค์ตัวจริงตัวปลอม",
@@ -11829,7 +12050,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=309"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ท่านอ๋องยอดเสน่หา",
@@ -11846,7 +12067,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=299"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ศึกจอมนางวังหลวง",
@@ -11863,7 +12084,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=294"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ทะลุมิติมาสะสมรัก",
@@ -11880,7 +12101,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=292"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "คำสัตย์ใต้บัลลังก์",
@@ -11897,7 +12118,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=283"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ฝึกวิชาเทพผิดนำภัยแก่ยุทธภพ",
@@ -11914,7 +12135,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=275"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "หญิงงามผู้พิทักษ์",
@@ -11931,7 +12152,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=265"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "การกลับมาของนกฟินิกซ์",
@@ -11948,7 +12169,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=263"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "หอฟู่หรง",
@@ -11965,7 +12186,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=261"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "หัวหน้าค่ายภูเขาได้ผัวท่านอ๋อง",
@@ -11982,7 +12203,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=256"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ชะตารักนางหงส์",
@@ -11999,7 +12220,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=247"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "กุนซือหญิงพิชิตแผ่นดิน",
@@ -12016,7 +12237,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=232"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ฮองเฮาอ้วนคนนี้ใครก็รังแกไม่ได้",
@@ -12033,7 +12254,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=225"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ท่านโหวข้าใครอย่าแตะ",
@@ -12050,7 +12271,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=219"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "จอมนางเขย่าบัลลังก์",
@@ -12067,7 +12288,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=208"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "เงาเลือดจักรพรรดิ",
@@ -12084,7 +12305,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=201"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ท่านหญิงนายพลสำนึกผิดแล้ว",
@@ -12101,7 +12322,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=199"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "เคยพบเจ้าครานั้นบุปผางามจับตา",
@@ -12118,7 +12339,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=195"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "อำนาจทำให้ใจมืดบอด",
@@ -12135,7 +12356,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=190"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ย้อนกลับไปโบราณเป็นขันที",
@@ -12152,7 +12373,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=178"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "แจกันสื่อรักข้ามเวลาท้าลิขิต",
@@ -12169,7 +12390,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=166"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "หงส์ลับฟ้าใต้หล้า",
@@ -12186,7 +12407,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=157"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "เทพธิดาเย็นชาสุดเเกร่ง",
@@ -12203,7 +12424,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=154"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ผกามาลีขอท้ารบ",
@@ -12220,7 +12441,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=91"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "บุปผาใต้เงาบัลลังก์",
@@ -12237,7 +12458,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=37"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "ชั่วชีวิตนี้ข้าคิดถึงแต่ซิงเฉิน",
@@ -12254,7 +12475,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=29"
       }
     ],
-    "group": "ย้อนยุค 82"
+    "group": "ย้อนยุค 85"
   },
   {
     "title": "แต่งงานกับพายุ",
@@ -12291,6 +12512,57 @@
     "group": "สะท้อนสังคม 2"
   },
   {
+    "title": "ยอดชายาพลิกชะตา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/c8fdf8247737d1b14a5527cfe27beed3.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/f8e5ecae-9c63-44ad-bec1-1ae678af2360/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=913"
+      }
+    ],
+    "group": "หนังเเนะนำ 9"
+  },
+  {
+    "title": "เลิกเขาแล้วไปแต่งกับเจ้านายแทน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/e16c9aaaf3423faaf6a99e536e37c6c3.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/800f6957-c2a9-4f87-9c33-16f31dee4188/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=911"
+      }
+    ],
+    "group": "หนังเเนะนำ 9"
+  },
+  {
+    "title": "2002อีกครั้ง",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/db3d9d0b2aa8b3f4d2908b28379eccb8.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/e2174580-1f57-4fa8-9de5-d77d95bcc81d/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=901"
+      }
+    ],
+    "group": "หนังเเนะนำ 9"
+  },
+  {
     "title": "บอสเย็นชากับยัยเลขาตัวจิ๋ว",
     "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/fca15063b4e0bd018f8656d13d33e25d.webp",
     "servers": [
@@ -12303,6 +12575,23 @@
         "name": "Direct",
         "type": "iframe",
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=888"
+      }
+    ],
+    "group": "หนังเเนะนำ 9"
+  },
+  {
+    "title": "คู่รักชั่วข้ามคืน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/ed9a7a4b813f601664a861830bfa8841.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/4ec80e18-94a0-4a65-853c-7f5c8fefeed7/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=887"
       }
     ],
     "group": "หนังเเนะนำ 9"
@@ -12325,40 +12614,6 @@
     "group": "หนังเเนะนำ 9"
   },
   {
-    "title": "อภินิหารมาเฟียข้ามภพ",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/13abb880471abf5325661abee66a19e6.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/702c3038-2980-4ef0-84e4-be8815685ff2/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=877"
-      }
-    ],
-    "group": "หนังเเนะนำ 9"
-  },
-  {
-    "title": "วิวาห์เพิ่มพลัง",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/addf07aaf0828318bec3fa4f62bc6ab6.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/7cab9bc8-47bc-42ac-a578-8be1786c5dea/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=870"
-      }
-    ],
-    "group": "หนังเเนะนำ 9"
-  },
-  {
     "title": "เธอคือพรหมลิขิตของฉัน",
     "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/2b02db46e95903e40a55869f55b0d9a2.webp",
     "servers": [
@@ -12371,23 +12626,6 @@
         "name": "Direct",
         "type": "iframe",
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=864"
-      }
-    ],
-    "group": "หนังเเนะนำ 9"
-  },
-  {
-    "title": "สาวไทยข้ามภพป่วนใจแม่ทัพ",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/ffcd2890a9b143c3a9f4bf4a3a255fd3.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/20023df4-983d-4b07-95bc-a8cbaa74d591/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=860"
       }
     ],
     "group": "หนังเเนะนำ 9"
@@ -12427,21 +12665,21 @@
     "group": "หนังเเนะนำ 9"
   },
   {
-    "title": "เกาะร้อนรัก",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/ce265d0ecafb2c3758af54fa756a1323.webp",
+    "title": "เกิดใหม่ก่อนวิวาห์คุณหนูเย่ทั้งสวยทั้งสตรอง",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/d2f4903f3eff2ad4d812b99559e9c969.webp",
     "servers": [
       {
         "name": "M3U8",
         "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/b1dde270-0313-49ec-aaea-55788ab92a6d/playlist.m3u8"
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/c6b33f93-b56c-4d0c-9f8b-8aa122f1bf2c/playlist.m3u8"
       },
       {
         "name": "Direct",
         "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=829"
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=999"
       }
     ],
-    "group": "หนังเเนะนำ 9"
+    "group": "เกิดใหม่ 29"
   },
   {
     "title": "ชีวิตใหม่ที่ไม่ยอมทน",
@@ -12473,23 +12711,6 @@
         "name": "Direct",
         "type": "iframe",
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=961"
-      }
-    ],
-    "group": "เกิดใหม่ 29"
-  },
-  {
-    "title": "วิวาห์ลวงกลับกลายเป็นรัก",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/84fff2d98af157696099fbd25628ce25.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/9e901a88-99c1-4cb6-94f9-bf8526913d5c/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=956"
       }
     ],
     "group": "เกิดใหม่ 29"
@@ -12951,7 +13172,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=985"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "หลับไหลหมื่นปีบรรพชนสำแดงฤทธิ์",
@@ -12968,7 +13189,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=957"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "พิสูจน์สกุลด้วยคมดาบ",
@@ -12985,7 +13206,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=952"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "เมฆาผงาดเก้าชั้นฟ้า",
@@ -13002,7 +13223,24 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=929"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
+  },
+  {
+    "title": "วิวาห์เพิ่มพลัง",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/addf07aaf0828318bec3fa4f62bc6ab6.webp",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/7cab9bc8-47bc-42ac-a578-8be1786c5dea/playlist.m3u8"
+      },
+      {
+        "name": "Direct",
+        "type": "iframe",
+        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=870"
+      }
+    ],
+    "group": "เทพเซียน 31"
   },
   {
     "title": "นักรบผู้เหยียดหยามปล่อยพลัง",
@@ -13019,7 +13257,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=824"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ลูกเขยขอทานผู้ยิ่งใหญ่",
@@ -13036,7 +13274,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=754"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ดวงตาสวรรค์ในเมืองใหญ่",
@@ -13053,7 +13291,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=735"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ปรมาจารย์ตาบอด",
@@ -13070,7 +13308,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=710"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ผู้มาเยือนจากอดีต",
@@ -13087,7 +13325,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=693"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ดาบลับในโลกวิปลาส",
@@ -13104,7 +13342,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=688"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "เด็กสาวผู้เลือกดาบ",
@@ -13121,7 +13359,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=684"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ปาฏิหาริย์รักซีอีโอ",
@@ -13138,7 +13376,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=679"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ตั้งแต่วันนี้ฉันคือคนรวยที่สุด",
@@ -13155,7 +13393,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=649"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ดวงตาแห่งความมั่งคั่ง",
@@ -13172,7 +13410,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=631"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "เกมนี้ฉันคือผู้คุม",
@@ -13189,7 +13427,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=621"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "รักษาภรรยาผู้เป็นมนุษย์ของข้า",
@@ -13206,7 +13444,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=612"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ราชันมังกรหวนคืน",
@@ -13223,7 +13461,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=611"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ดวงตาแห่งโชคชะตา",
@@ -13240,7 +13478,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=603"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "พ่อบ้านพันปี",
@@ -13257,7 +13495,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=563"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ฉันเห็นเลขอายุขัย",
@@ -13274,7 +13512,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=399"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "มือใหม่1000%โน๊บๆแต่โหดๆ",
@@ -13291,7 +13529,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=369"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "เทพีเหนือความตาย",
@@ -13308,7 +13546,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=290"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "อาจารย์ขั้นเทพหนีเมียประจำ",
@@ -13325,7 +13563,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=280"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ปรมาจารย์เซียนปฐพี",
@@ -13342,7 +13580,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=279"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "เทพน้อยจอมเวทย์",
@@ -13359,7 +13597,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=278"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ลำนำรักวารีเพลิง",
@@ -13376,7 +13614,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=259"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ตำนานเทพดาบวัยเยาว์",
@@ -13393,7 +13631,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=255"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "เขยแห่งเจิ้นกั๋ว",
@@ -13410,7 +13648,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=184"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "คุณพ่อผู้ไร้เทียมทาน",
@@ -13427,7 +13665,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=175"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "ใครบอกว่าข้าเป็นเซียน",
@@ -13444,7 +13682,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=152"
       }
     ],
-    "group": "เทพเซียน 30"
+    "group": "เทพเซียน 31"
   },
   {
     "title": "หัวใจไม่เคยอยู่ในแผน",
@@ -13461,7 +13699,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=998"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "รักไม่ผูกมัด",
@@ -13478,7 +13716,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=984"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "เมื่อกุหลาบสิ้นเสียง",
@@ -13495,24 +13733,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=980"
       }
     ],
-    "group": "แก้แค้น 68"
-  },
-  {
-    "title": "ผู้ชายที่หัวใจไม่มีวันลืม",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/daf907733f403b03282bfb3cba2867ca.webp",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://vz-b105018e-32f.b-cdn.net/e5e3ac69-ee49-4e48-b501-4b0a322c7da5/playlist.m3u8"
-      },
-      {
-        "name": "Direct",
-        "type": "iframe",
-        "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=979"
-      }
-    ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "รักในวันที่สายไป",
@@ -13529,7 +13750,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=949"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "หัวใจที่ไม่หวนคืน",
@@ -13546,7 +13767,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=948"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "เจ้าสาวผู้ซ่อมบ้าน",
@@ -13563,7 +13784,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=940"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "แค้นนี้เธอแลกด้วยชีวิต",
@@ -13580,7 +13801,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=939"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ปลุกไฟในตัวฉัน",
@@ -13597,7 +13818,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=932"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ผมคือความชั่วร้าย",
@@ -13614,7 +13835,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=931"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "บอดี้การ์ดขั้นเทพ",
@@ -13631,7 +13852,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=919"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "แผนสลับชะตาทายาท",
@@ -13648,7 +13869,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=917"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "มังกรซ่อนคม",
@@ -13665,7 +13886,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=823"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ประกายไฟในเงามืด",
@@ -13682,7 +13903,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=817"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "เซียนพนันล้างมลทิน",
@@ -13699,7 +13920,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=816"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "หมัดเหล็กแห่งการไถ่บาป",
@@ -13716,7 +13937,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=815"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "แม่กลับมาแล้ว",
@@ -13733,7 +13954,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=812"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ไร้หัวใจ",
@@ -13750,7 +13971,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=810"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ตำนานนักฆ่าผู้เยือกเย็น",
@@ -13767,7 +13988,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=805"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "เสียงจากอนาคต",
@@ -13784,7 +14005,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=803"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ทายาทตัวจริงกลับมาแล้ว",
@@ -13801,7 +14022,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=795"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "เธอไม่เคยทิ้งฉัน",
@@ -13818,7 +14039,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=789"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "เจ้าหญิงกลับมาแล้ว",
@@ -13835,7 +14056,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=787"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "คำขอร้องที่สายเกินไป",
@@ -13852,7 +14073,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=786"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "แค้นรักพันธนาการ",
@@ -13869,7 +14090,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=772"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "คุณพ่อมหาเศรษฐีล้างแค้น",
@@ -13886,7 +14107,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=753"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "เอาชีวิตรอดในแดนร้าง",
@@ -13903,7 +14124,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=752"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "เชฟหลงยุค",
@@ -13920,7 +14141,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=743"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "สงครามมังกร",
@@ -13937,7 +14158,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=718"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "คู่ชีวิตที่ไม่ต้องการ",
@@ -13954,7 +14175,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=706"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ขนมปังกับเหรียญทอง",
@@ -13971,7 +14192,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=702"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "การเเก้เเค้นของคุณพ่อ",
@@ -13988,7 +14209,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=701"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "พ่อของฉันคือเจ้านายลับ",
@@ -14005,7 +14226,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=697"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "สาวโรงงานหัวใจพันล้าน",
@@ -14022,7 +14243,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=690"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "กรรมพลิกชีวิต",
@@ -14039,7 +14260,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=683"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "อดีตคู่หมั้นคือมหาเศรษฐี",
@@ -14056,7 +14277,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=650"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "แผลใหม่บนรอยอดีต",
@@ -14073,7 +14294,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=646"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ราชินีแห่งไฟแค้น",
@@ -14090,7 +14311,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=637"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "LadyBossรักนี้ต้องชนะ",
@@ -14107,7 +14328,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=624"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ดวงดาวใหม่บนฟ้าเดิม",
@@ -14124,7 +14345,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=618"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "เธอที่อยู่ปลายสาย",
@@ -14141,7 +14362,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=616"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "เมียที่ถูกสลับ",
@@ -14158,7 +14379,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=615"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "คุณพ่อหัวใจพันล้าน",
@@ -14175,7 +14396,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=609"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "จอมยุทธ์ผู้พลิกชะตา",
@@ -14192,7 +14413,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=531"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "คุณหนูคืนบัลลังก์",
@@ -14209,7 +14430,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=528"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "หัวใจพูดได้คุณหนูผู้ชนะ",
@@ -14226,7 +14447,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=468"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "สิ้นหวังพันคืน",
@@ -14243,7 +14464,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=389"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "คลื่นรักแรงแค้น",
@@ -14260,7 +14481,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=377"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "โธ่ลูกฉันเป็นทายาทเศรษฐีเหรอ",
@@ -14277,7 +14498,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=325"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ทนายมือทองขอกลับมาเฉิดฉายอีกครั้ง",
@@ -14294,7 +14515,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=317"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "แค้นนี้คนทั้งโลกช่วยชำระ",
@@ -14311,7 +14532,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=307"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ภรรยาข้าใครอย่าแตะ",
@@ -14328,7 +14549,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=302"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ด้วยแรงรักของแม่",
@@ -14345,7 +14566,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=269"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "หัวใจนักซิ่ง",
@@ -14362,7 +14583,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=262"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ฟื้นคืนเพื่อล้างแค้น",
@@ -14379,7 +14600,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=252"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "สนุกเกอร์น้อยจอมยุ่ง",
@@ -14396,7 +14617,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=246"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "แผนรักเกมลวง",
@@ -14413,7 +14634,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=238"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ฉันคือลูกสาวของผู้บัญชาการ",
@@ -14430,7 +14651,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=229"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "สุดยอดคุณพี่สาว",
@@ -14447,7 +14668,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=220"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "อดีตสามีรู้ไหมว่าฉันเป็นหมอเทวดา",
@@ -14464,7 +14685,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=196"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ไฟแค้นลิขิตรัก",
@@ -14481,7 +14702,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=194"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "บ้านเกิดที่ไร้แสงจันทร์",
@@ -14498,7 +14719,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=191"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "การกลับบ้านของพระราชา(เต็มเรื่อง)",
@@ -14515,7 +14736,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=100"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "ทายาทเศรษฐีคืนบัลลังก์",
@@ -14532,7 +14753,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=97"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "เพียงแค้นเเสนรักไร้คู่เคียง",
@@ -14549,7 +14770,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=43"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "แค้นฝังรัก",
@@ -14566,7 +14787,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=24"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "การเเก้เเค้นของซูเย่อ",
@@ -14583,7 +14804,7 @@
         "url": "https://www.xn--72c9ab1ec1bc6q.online/direct-video.php?id=18"
       }
     ],
-    "group": "แก้แค้น 68"
+    "group": "แก้แค้น 67"
   },
   {
     "title": "เพื่อศักดิ์ศรีชู้ตเลย",
