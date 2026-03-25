@@ -3,7 +3,7 @@ name: Ball66
 on:
   workflow_dispatch: # กดรันเอง
   schedule:
-    - cron: "0 15 * * *" # ทุก 6 ชั่วโมง
+    - cron: "0 12 * * *" # ทุก 6 ชั่วโมง
 
 permissions:
     contents: write
