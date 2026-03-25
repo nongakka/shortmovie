@@ -1,0 +1,357 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/epl-3.png",epl-3
+https://love.sikoyo3159.workers.dev/lx-origin/epl-3_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-spotv.png",hd-spotv
+https://love.sikoyo3159.workers.dev/lx-origin/hd-spotv_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-spotv2.png",hd-spotv2
+https://love.sikoyo3159.workers.dev/lx-origin/hd-spotv2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax01.png",th-monomax01
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax01bkp.png",th-monomax01bkp
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax01bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax02.png",th-monomax02
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax02bkp.png",th-monomax02bkp
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax02bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax02eng.png",th-monomax02eng
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax02eng_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax03.png",th-monomax03
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax03bkp.png",th-monomax03bkp
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax03bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax04bkp.png",th-monomax04bkp
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax04bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax05.png",th-monomax05
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax05_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax05bkp.png",th-monomax05bkp
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax05bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax06.png",th-monomax06
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax06bkp.png",th-monomax06bkp
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax06bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax07.png",th-monomax07
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax07_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax07bkp.png",th-monomax07bkp
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax07bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax08.png",th-monomax08
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax08bkp.png",th-monomax08bkp
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax08bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax09.png",th-monomax09
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax09bkp.png",th-monomax09bkp
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax09bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax10.png",th-monomax10
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax10_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax10bkp.png",th-monomax10bkp
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax10bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax11.png",th-monomax11
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax11_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/th-monomax11bkp.png",th-monomax11bkp
+https://love.sikoyo3159.workers.dev/lx-origin/th-monomax11bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/epl-bein1.png",epl-bein1
+https://love.sikoyo3159.workers.dev/lx-origin/epl-bein1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/epl-bein2.png",epl-bein2
+https://love.sikoyo3159.workers.dev/lx-origin/epl-bein2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/epl-bein3.png",epl-bein3
+https://love.sikoyo3159.workers.dev/lx-origin/epl-bein3_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-golf2.png",hd-golf2
+https://love.sikoyo3159.workers.dev/lx-origin/hd-golf2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-tennis.png",hd-tennis
+https://love.sikoyo3159.workers.dev/lx-origin/hd-tennis_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-tsport1.png",hd-tsport1
+https://love.sikoyo3159.workers.dev/lx-origin/hd-tsport1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-tsport2.png",hd-tsport2
+https://love.sikoyo3159.workers.dev/lx-origin/hd-tsport2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-tsport3.png",hd-tsport3
+https://love.sikoyo3159.workers.dev/lx-origin/hd-tsport3_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-tsport4.png",hd-tsport4
+https://love.sikoyo3159.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-tsport5.png",sd-tsport5
+https://love.sikoyo3159.workers.dev/lx-origin/sd-tsport5_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-tsport7.png",sd-tsport7
+https://love.sikoyo3159.workers.dev/lx-origin/sd-tsport7_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-tsports.png",sd-tsports
+https://love.sikoyo3159.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-attheraces.png",uk-attheraces
+https://love.sikoyo3159.workers.dev/lx-origin/uk-attheraces_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport1hd.png",uk-btsport1hd
+https://love.sikoyo3159.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport1hdbkp.png",uk-btsport1hdbkp
+https://love.sikoyo3159.workers.dev/lx-origin/uk-btsport1hdbkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport2hd.png",uk-btsport2hd
+https://love.sikoyo3159.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport2hdbkp.png",uk-btsport2hdbkp
+https://love.sikoyo3159.workers.dev/lx-origin/uk-btsport2hdbkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport3hd.png",uk-btsport3hd
+https://love.sikoyo3159.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport3hdbkp.png",uk-btsport3hdbkp
+https://love.sikoyo3159.workers.dev/lx-origin/uk-btsport3hdbkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-espn.png",uk-espn
+https://love.sikoyo3159.workers.dev/lx-origin/uk-espn_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-premiersports.png",uk-premiersports
+https://love.sikoyo3159.workers.dev/lx-origin/uk-premiersports_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-premiersports2.png",uk-premiersports2
+https://love.sikoyo3159.workers.dev/lx-origin/uk-premiersports2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-action.png",uk-skysports-action
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-action_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-arena.png",uk-skysports-arena
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-arena_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-cricket.png",uk-skysports-cricket
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-cricket_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-epl.png",uk-skysports-epl
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-epl_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-f1.png",uk-skysports-f1
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-f1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-football.png",uk-skysports-football
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-football_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-golf.png",uk-skysports-golf
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-golf_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-mainevent.png",uk-skysports-mainevent
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-mainevent_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-mix.png",uk-skysports-mix
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-mix_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-news.png",uk-skysports-news
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-news_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-plus.png",uk-skysports-plus
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-plus_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports1bkp.png",uk-skysports1bkp
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports1bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports2bkp.png",uk-skysports2bkp
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports2bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports3bkp.png",uk-skysports3bkp
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports3bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports4bkp.png",uk-skysports4bkp
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports4bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports5bkp.png",uk-skysports5bkp
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports5bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/uk-skysportsf1bkp.png",uk-skysportsf1bkp
+https://love.sikoyo3159.workers.dev/lx-origin/uk-skysportsf1bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/us-cbssn.png",us-cbssn
+https://love.sikoyo3159.workers.dev/lx-origin/us-cbssn_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/us-espn2.png",us-espn2
+https://love.sikoyo3159.workers.dev/lx-origin/us-espn2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/us-foxsports1.png",us-foxsports1
+https://love.sikoyo3159.workers.dev/lx-origin/us-foxsports1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/us-foxsports2.png",us-foxsports2
+https://love.sikoyo3159.workers.dev/lx-origin/us-foxsports2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/us-nba.png",us-nba
+https://love.sikoyo3159.workers.dev/lx-origin/us-nba_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/us-nbcgolf.png",us-nbcgolf
+https://love.sikoyo3159.workers.dev/lx-origin/us-nbcgolf_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/us-nfl.png",us-nfl
+https://love.sikoyo3159.workers.dev/lx-origin/us-nfl_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/au-fox501.png",au-fox501
+https://love.sikoyo3159.workers.dev/lx-origin/au-fox501_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/au-fox502.png",au-fox502
+https://love.sikoyo3159.workers.dev/lx-origin/au-fox502_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/au-fox503.png",au-fox503
+https://love.sikoyo3159.workers.dev/lx-origin/au-fox503_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/au-fox504.png",au-fox504
+https://love.sikoyo3159.workers.dev/lx-origin/au-fox504_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/au-fox505.png",au-fox505
+https://love.sikoyo3159.workers.dev/lx-origin/au-fox505_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/au-fox507.png",au-fox507
+https://love.sikoyo3159.workers.dev/lx-origin/au-fox507_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/au-racing.png",au-racing
+https://love.sikoyo3159.workers.dev/lx-origin/au-racing_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/au-skyracing2.png",au-skyracing2
+https://love.sikoyo3159.workers.dev/lx-origin/au-skyracing2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn1.png",ca-tsn1
+https://love.sikoyo3159.workers.dev/lx-origin/ca-tsn1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn2.png",ca-tsn2
+https://love.sikoyo3159.workers.dev/lx-origin/ca-tsn2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn3.png",ca-tsn3
+https://love.sikoyo3159.workers.dev/lx-origin/ca-tsn3_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn4.png",ca-tsn4
+https://love.sikoyo3159.workers.dev/lx-origin/ca-tsn4_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn5.png",ca-tsn5
+https://love.sikoyo3159.workers.dev/lx-origin/ca-tsn5_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/fr-bein2hd.png",fr-bein2hd
+https://love.sikoyo3159.workers.dev/lx-origin/fr-bein2hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/fr-bein3hd.png",fr-bein3hd
+https://love.sikoyo3159.workers.dev/lx-origin/fr-bein3hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/fr-canalsport.png",fr-canalsport
+https://love.sikoyo3159.workers.dev/lx-origin/fr-canalsport_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/fr-infosport.png",fr-infosport
+https://love.sikoyo3159.workers.dev/lx-origin/fr-infosport_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/de-sportdigital.png",de-sportdigital
+https://love.sikoyo3159.workers.dev/lx-origin/de-sportdigital_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/my-arena1.png",my-arena1
+https://love.sikoyo3159.workers.dev/lx-origin/my-arena1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/my-arena2.png",my-arena2
+https://love.sikoyo3159.workers.dev/lx-origin/my-arena2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/my-astro-epl1.png",my-astro-epl1
+https://love.sikoyo3159.workers.dev/lx-origin/my-astro-epl1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/my-astro-football.png",my-astro-football
+https://love.sikoyo3159.workers.dev/lx-origin/my-astro-football_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/my-astro-grandstand.png",my-astro-grandstand
+https://love.sikoyo3159.workers.dev/lx-origin/my-astro-grandstand_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/my-astro-sportsplus.png",my-astro-sportsplus
+https://love.sikoyo3159.workers.dev/lx-origin/my-astro-sportsplus_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/my-bein1.png",my-bein1
+https://love.sikoyo3159.workers.dev/lx-origin/my-bein1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/my-bein2.png",my-bein2
+https://love.sikoyo3159.workers.dev/lx-origin/my-bein2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/my-bein3.png",my-bein3
+https://love.sikoyo3159.workers.dev/lx-origin/my-bein3_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/my-nbcgolf.png",my-nbcgolf
+https://love.sikoyo3159.workers.dev/lx-origin/my-nbcgolf_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/my-premiersports.png",my-premiersports
+https://love.sikoyo3159.workers.dev/lx-origin/my-premiersports_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/my-spotv1.png",my-spotv1
+https://love.sikoyo3159.workers.dev/lx-origin/my-spotv1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/my-spotv2.png",my-spotv2
+https://love.sikoyo3159.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nl-espn1.png",nl-espn1
+https://love.sikoyo3159.workers.dev/lx-origin/nl-espn1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nl-espn2.png",nl-espn2
+https://love.sikoyo3159.workers.dev/lx-origin/nl-espn2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nl-espn3.png",nl-espn3
+https://love.sikoyo3159.workers.dev/lx-origin/nl-espn3_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nl-espn4.png",nl-espn4
+https://love.sikoyo3159.workers.dev/lx-origin/nl-espn4_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nl-espn6.png",nl-espn6
+https://love.sikoyo3159.workers.dev/lx-origin/nl-espn6_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport1.png",nl-ziggosport1
+https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport2.png",nl-ziggosport2
+https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport3.png",nl-ziggosport3
+https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport3_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport4.png",nl-ziggosport4
+https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport4_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport5.png",nl-ziggosport5
+https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport5_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport6.png",nl-ziggosport6
+https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport6_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport2.png",nz-skysport2
+https://love.sikoyo3159.workers.dev/lx-origin/nz-skysport2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport3.png",nz-skysport3
+https://love.sikoyo3159.workers.dev/lx-origin/nz-skysport3_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport4.png",nz-skysport4
+https://love.sikoyo3159.workers.dev/lx-origin/nz-skysport4_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport5.png",nz-skysport5
+https://love.sikoyo3159.workers.dev/lx-origin/nz-skysport5_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport8.png",nz-skysport8
+https://love.sikoyo3159.workers.dev/lx-origin/nz-skysport8_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport9.png",nz-skysport9
+https://love.sikoyo3159.workers.dev/lx-origin/nz-skysport9_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-bein1.png",hd-bein1
+https://love.sikoyo3159.workers.dev/lx-origin/hd-bein1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-bein10.png",hd-bein10
+https://love.sikoyo3159.workers.dev/lx-origin/hd-bein10_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-bein11.png",hd-bein11
+https://love.sikoyo3159.workers.dev/lx-origin/hd-bein11_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-bein12.png",hd-bein12
+https://love.sikoyo3159.workers.dev/lx-origin/hd-bein12_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-bein2.png",hd-bein2
+https://love.sikoyo3159.workers.dev/lx-origin/hd-bein2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-bein3.png",hd-bein3
+https://love.sikoyo3159.workers.dev/lx-origin/hd-bein3_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-bein4.png",hd-bein4
+https://love.sikoyo3159.workers.dev/lx-origin/hd-bein4_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-bein5.png",hd-bein5
+https://love.sikoyo3159.workers.dev/lx-origin/hd-bein5_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-bein6.png",hd-bein6
+https://love.sikoyo3159.workers.dev/lx-origin/hd-bein6_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-bein7.png",hd-bein7
+https://love.sikoyo3159.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-bein8.png",hd-bein8
+https://love.sikoyo3159.workers.dev/lx-origin/hd-bein8_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-bein9.png",hd-bein9
+https://love.sikoyo3159.workers.dev/lx-origin/hd-bein9_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/ru-matchfutbol1.png",ru-matchfutbol1
+https://love.sikoyo3159.workers.dev/lx-origin/ru-matchfutbol1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/ru-matchfutbol2.png",ru-matchfutbol2
+https://love.sikoyo3159.workers.dev/lx-origin/ru-matchfutbol2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/ru-matchfutbol3.png",ru-matchfutbol3
+https://love.sikoyo3159.workers.dev/lx-origin/ru-matchfutbol3_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sg-bein1.png",sg-bein1
+https://love.sikoyo3159.workers.dev/lx-origin/sg-bein1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sg-bein2.png",sg-bein2
+https://love.sikoyo3159.workers.dev/lx-origin/sg-bein2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sg-bein3.png",sg-bein3
+https://love.sikoyo3159.workers.dev/lx-origin/sg-bein3_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sg-hubsport01.png",sg-hubsport01
+https://love.sikoyo3159.workers.dev/lx-origin/sg-hubsport01_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sg-hubsport02.png",sg-hubsport02
+https://love.sikoyo3159.workers.dev/lx-origin/sg-hubsport02_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sg-hubsport03.png",sg-hubsport03
+https://love.sikoyo3159.workers.dev/lx-origin/sg-hubsport03_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sk-arena1.png",sk-arena1
+https://love.sikoyo3159.workers.dev/lx-origin/sk-arena1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/es-movistar-laliga1.png",es-movistar-laliga1
+https://love.sikoyo3159.workers.dev/lx-origin/es-movistar-laliga1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/id-sctv.png",id-sctv
+https://love.sikoyo3159.workers.dev/lx-origin/id-sctv_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-altv4.png",sd-altv4
+https://love.sikoyo3159.workers.dev/lx-origin/sd-altv4_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-nbt.png",sd-nbt
+https://love.sikoyo3159.workers.dev/lx-origin/sd-nbt_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-amarin.png",hd-amarin
+https://love.sikoyo3159.workers.dev/lx-origin/hd-amarin_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-ch3.png",hd-ch3
+https://love.sikoyo3159.workers.dev/lx-origin/hd-ch3_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-ch5.png",hd-ch5
+https://love.sikoyo3159.workers.dev/lx-origin/hd-ch5_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-ch7.png",hd-ch7
+https://love.sikoyo3159.workers.dev/lx-origin/hd-ch7_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-ch8.png",hd-ch8
+https://love.sikoyo3159.workers.dev/lx-origin/hd-ch8_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-gmmone.png",hd-gmmone
+https://love.sikoyo3159.workers.dev/lx-origin/hd-gmmone_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-mcot.png",hd-mcot
+https://love.sikoyo3159.workers.dev/lx-origin/hd-mcot_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-mono.png",hd-mono
+https://love.sikoyo3159.workers.dev/lx-origin/hd-mono_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-pptv.png",hd-pptv
+https://love.sikoyo3159.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-thairath.png",hd-thairath
+https://love.sikoyo3159.workers.dev/lx-origin/hd-thairath_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-tpbs.png",hd-tpbs
+https://love.sikoyo3159.workers.dev/lx-origin/hd-tpbs_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-workpoint.png",hd-workpoint
+https://love.sikoyo3159.workers.dev/lx-origin/hd-workpoint_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-24u.png",sd-24u
+https://love.sikoyo3159.workers.dev/lx-origin/sd-24u_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-gmmchannel.png",sd-gmmchannel
+https://love.sikoyo3159.workers.dev/lx-origin/sd-gmmchannel_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-nation.png",sd-nation
+https://love.sikoyo3159.workers.dev/lx-origin/sd-nation_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-new.png",sd-new
+https://love.sikoyo3159.workers.dev/lx-origin/sd-new_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-tnn24.png",sd-tnn24
+https://love.sikoyo3159.workers.dev/lx-origin/sd-tnn24_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-tptv.png",sd-tptv
+https://love.sikoyo3159.workers.dev/lx-origin/sd-tptv_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-asianmore.png",hd-asianmore
+https://love.sikoyo3159.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-dreamworks.png",hd-dreamworks
+https://love.sikoyo3159.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-axn.png",hd-axn
+https://love.sikoyo3159.workers.dev/lx-origin/hd-axn_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-tfilm.png",hd-tfilm
+https://love.sikoyo3159.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-tfilm2.png",hd-tfilm2
+https://love.sikoyo3159.workers.dev/lx-origin/hd-tfilm2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-warnertv.png",hd-warnertv
+https://love.sikoyo3159.workers.dev/lx-origin/hd-warnertv_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/hd-xzyte.png",hd-xzyte
+https://love.sikoyo3159.workers.dev/lx-origin/hd-xzyte_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-filmasia.png",sd-filmasia
+https://love.sikoyo3159.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-moviehits.png",sd-moviehits
+https://love.sikoyo3159.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-series.png",sd-series
+https://love.sikoyo3159.workers.dev/lx-origin/sd-series_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-thaifilm.png",sd-thaifilm
+https://love.sikoyo3159.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-asianfood.png",sd-asianfood
+https://love.sikoyo3159.workers.dev/lx-origin/sd-asianfood_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-explife.png",sd-explife
+https://love.sikoyo3159.workers.dev/lx-origin/sd-explife_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-expsci.png",sd-expsci
+https://love.sikoyo3159.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/sd-discovery.png",sd-discovery
+https://love.sikoyo3159.workers.dev/lx-origin/sd-discovery_720/chunks.m3u8

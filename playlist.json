@@ -1,0 +1,892 @@
+[
+  {
+    "name": "epl-3",
+    "logo": "https://api.bananamuffin.org/images/png/epl-3.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/epl-3_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-spotv",
+    "logo": "https://api.bananamuffin.org/images/png/hd-spotv.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-spotv_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-spotv2",
+    "logo": "https://api.bananamuffin.org/images/png/hd-spotv2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-spotv2_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax01",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax01.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax01bkp",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax01bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax01bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax02",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax02.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax02bkp",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax02bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax02bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax02eng",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax02eng.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax02eng_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax03",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax03.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax03bkp",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax03bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax03bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax04bkp",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax04bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax04bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax05",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax05.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax05_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax05bkp",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax05bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax05bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax06",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax06.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax06bkp",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax06bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax06bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax07",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax07.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax07_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax07bkp",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax07bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax07bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax08",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax08.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax08bkp",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax08bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax08bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax09",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax09.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax09bkp",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax09bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax09bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax10",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax10.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax10_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax10bkp",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax10bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax10bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax11",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax11.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax11_720/chunks.m3u8"
+  },
+  {
+    "name": "th-monomax11bkp",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax11bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax11bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "epl-bein1",
+    "logo": "https://api.bananamuffin.org/images/png/epl-bein1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/epl-bein1_720/chunks.m3u8"
+  },
+  {
+    "name": "epl-bein2",
+    "logo": "https://api.bananamuffin.org/images/png/epl-bein2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/epl-bein2_720/chunks.m3u8"
+  },
+  {
+    "name": "epl-bein3",
+    "logo": "https://api.bananamuffin.org/images/png/epl-bein3.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/epl-bein3_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-golf2",
+    "logo": "https://api.bananamuffin.org/images/png/hd-golf2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-golf2_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-tennis",
+    "logo": "https://api.bananamuffin.org/images/png/hd-tennis.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-tennis_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-tsport1",
+    "logo": "https://api.bananamuffin.org/images/png/hd-tsport1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-tsport1_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-tsport2",
+    "logo": "https://api.bananamuffin.org/images/png/hd-tsport2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-tsport2_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-tsport3",
+    "logo": "https://api.bananamuffin.org/images/png/hd-tsport3.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-tsport3_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-tsport4",
+    "logo": "https://api.bananamuffin.org/images/png/hd-tsport4.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-tsport5",
+    "logo": "https://api.bananamuffin.org/images/png/sd-tsport5.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-tsport5_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-tsport7",
+    "logo": "https://api.bananamuffin.org/images/png/sd-tsport7.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-tsport7_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-tsports",
+    "logo": "https://api.bananamuffin.org/images/png/sd-tsports.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-attheraces",
+    "logo": "https://api.bananamuffin.org/images/png/uk-attheraces.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-attheraces_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-btsport1hd",
+    "logo": "https://api.bananamuffin.org/images/png/uk-btsport1hd.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-btsport1hdbkp",
+    "logo": "https://api.bananamuffin.org/images/png/uk-btsport1hdbkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-btsport1hdbkp_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-btsport2hd",
+    "logo": "https://api.bananamuffin.org/images/png/uk-btsport2hd.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-btsport2hdbkp",
+    "logo": "https://api.bananamuffin.org/images/png/uk-btsport2hdbkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-btsport2hdbkp_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-btsport3hd",
+    "logo": "https://api.bananamuffin.org/images/png/uk-btsport3hd.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-btsport3hdbkp",
+    "logo": "https://api.bananamuffin.org/images/png/uk-btsport3hdbkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-btsport3hdbkp_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-espn",
+    "logo": "https://api.bananamuffin.org/images/png/uk-espn.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-espn_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-premiersports",
+    "logo": "https://api.bananamuffin.org/images/png/uk-premiersports.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-premiersports_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-premiersports2",
+    "logo": "https://api.bananamuffin.org/images/png/uk-premiersports2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-premiersports2_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports-action",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports-action.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-action_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports-arena",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports-arena.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-arena_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports-cricket",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports-cricket.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-cricket_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports-epl",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports-epl.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-epl_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports-f1",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports-f1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-f1_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports-football",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports-football.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-football_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports-golf",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports-golf.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-golf_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports-mainevent",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports-mainevent.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-mainevent_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports-mix",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports-mix.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-mix_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports-news",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports-news.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-news_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports-plus",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports-plus.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports-plus_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports1bkp",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports1bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports1bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports2bkp",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports2bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports2bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports3bkp",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports3bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports3bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports4bkp",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports4bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports4bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysports5bkp",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysports5bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysports5bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "uk-skysportsf1bkp",
+    "logo": "https://api.bananamuffin.org/images/png/uk-skysportsf1bkp.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-skysportsf1bkp_720/chunks.m3u8"
+  },
+  {
+    "name": "us-cbssn",
+    "logo": "https://api.bananamuffin.org/images/png/us-cbssn.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/us-cbssn_720/chunks.m3u8"
+  },
+  {
+    "name": "us-espn2",
+    "logo": "https://api.bananamuffin.org/images/png/us-espn2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/us-espn2_720/chunks.m3u8"
+  },
+  {
+    "name": "us-foxsports1",
+    "logo": "https://api.bananamuffin.org/images/png/us-foxsports1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/us-foxsports1_720/chunks.m3u8"
+  },
+  {
+    "name": "us-foxsports2",
+    "logo": "https://api.bananamuffin.org/images/png/us-foxsports2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/us-foxsports2_720/chunks.m3u8"
+  },
+  {
+    "name": "us-nba",
+    "logo": "https://api.bananamuffin.org/images/png/us-nba.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/us-nba_720/chunks.m3u8"
+  },
+  {
+    "name": "us-nbcgolf",
+    "logo": "https://api.bananamuffin.org/images/png/us-nbcgolf.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/us-nbcgolf_720/chunks.m3u8"
+  },
+  {
+    "name": "us-nfl",
+    "logo": "https://api.bananamuffin.org/images/png/us-nfl.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/us-nfl_720/chunks.m3u8"
+  },
+  {
+    "name": "au-fox501",
+    "logo": "https://api.bananamuffin.org/images/png/au-fox501.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/au-fox501_720/chunks.m3u8"
+  },
+  {
+    "name": "au-fox502",
+    "logo": "https://api.bananamuffin.org/images/png/au-fox502.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/au-fox502_720/chunks.m3u8"
+  },
+  {
+    "name": "au-fox503",
+    "logo": "https://api.bananamuffin.org/images/png/au-fox503.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/au-fox503_720/chunks.m3u8"
+  },
+  {
+    "name": "au-fox504",
+    "logo": "https://api.bananamuffin.org/images/png/au-fox504.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/au-fox504_720/chunks.m3u8"
+  },
+  {
+    "name": "au-fox505",
+    "logo": "https://api.bananamuffin.org/images/png/au-fox505.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/au-fox505_720/chunks.m3u8"
+  },
+  {
+    "name": "au-fox507",
+    "logo": "https://api.bananamuffin.org/images/png/au-fox507.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/au-fox507_720/chunks.m3u8"
+  },
+  {
+    "name": "au-racing",
+    "logo": "https://api.bananamuffin.org/images/png/au-racing.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/au-racing_720/chunks.m3u8"
+  },
+  {
+    "name": "au-skyracing2",
+    "logo": "https://api.bananamuffin.org/images/png/au-skyracing2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/au-skyracing2_720/chunks.m3u8"
+  },
+  {
+    "name": "ca-tsn1",
+    "logo": "https://api.bananamuffin.org/images/png/ca-tsn1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/ca-tsn1_720/chunks.m3u8"
+  },
+  {
+    "name": "ca-tsn2",
+    "logo": "https://api.bananamuffin.org/images/png/ca-tsn2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/ca-tsn2_720/chunks.m3u8"
+  },
+  {
+    "name": "ca-tsn3",
+    "logo": "https://api.bananamuffin.org/images/png/ca-tsn3.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/ca-tsn3_720/chunks.m3u8"
+  },
+  {
+    "name": "ca-tsn4",
+    "logo": "https://api.bananamuffin.org/images/png/ca-tsn4.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/ca-tsn4_720/chunks.m3u8"
+  },
+  {
+    "name": "ca-tsn5",
+    "logo": "https://api.bananamuffin.org/images/png/ca-tsn5.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/ca-tsn5_720/chunks.m3u8"
+  },
+  {
+    "name": "fr-bein2hd",
+    "logo": "https://api.bananamuffin.org/images/png/fr-bein2hd.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/fr-bein2hd_720/chunks.m3u8"
+  },
+  {
+    "name": "fr-bein3hd",
+    "logo": "https://api.bananamuffin.org/images/png/fr-bein3hd.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/fr-bein3hd_720/chunks.m3u8"
+  },
+  {
+    "name": "fr-canalsport",
+    "logo": "https://api.bananamuffin.org/images/png/fr-canalsport.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/fr-canalsport_720/chunks.m3u8"
+  },
+  {
+    "name": "fr-infosport",
+    "logo": "https://api.bananamuffin.org/images/png/fr-infosport.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/fr-infosport_720/chunks.m3u8"
+  },
+  {
+    "name": "de-sportdigital",
+    "logo": "https://api.bananamuffin.org/images/png/de-sportdigital.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/de-sportdigital_720/chunks.m3u8"
+  },
+  {
+    "name": "my-arena1",
+    "logo": "https://api.bananamuffin.org/images/png/my-arena1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/my-arena1_720/chunks.m3u8"
+  },
+  {
+    "name": "my-arena2",
+    "logo": "https://api.bananamuffin.org/images/png/my-arena2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/my-arena2_720/chunks.m3u8"
+  },
+  {
+    "name": "my-astro-epl1",
+    "logo": "https://api.bananamuffin.org/images/png/my-astro-epl1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/my-astro-epl1_720/chunks.m3u8"
+  },
+  {
+    "name": "my-astro-football",
+    "logo": "https://api.bananamuffin.org/images/png/my-astro-football.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/my-astro-football_720/chunks.m3u8"
+  },
+  {
+    "name": "my-astro-grandstand",
+    "logo": "https://api.bananamuffin.org/images/png/my-astro-grandstand.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/my-astro-grandstand_720/chunks.m3u8"
+  },
+  {
+    "name": "my-astro-sportsplus",
+    "logo": "https://api.bananamuffin.org/images/png/my-astro-sportsplus.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/my-astro-sportsplus_720/chunks.m3u8"
+  },
+  {
+    "name": "my-bein1",
+    "logo": "https://api.bananamuffin.org/images/png/my-bein1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/my-bein1_720/chunks.m3u8"
+  },
+  {
+    "name": "my-bein2",
+    "logo": "https://api.bananamuffin.org/images/png/my-bein2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/my-bein2_720/chunks.m3u8"
+  },
+  {
+    "name": "my-bein3",
+    "logo": "https://api.bananamuffin.org/images/png/my-bein3.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/my-bein3_720/chunks.m3u8"
+  },
+  {
+    "name": "my-nbcgolf",
+    "logo": "https://api.bananamuffin.org/images/png/my-nbcgolf.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/my-nbcgolf_720/chunks.m3u8"
+  },
+  {
+    "name": "my-premiersports",
+    "logo": "https://api.bananamuffin.org/images/png/my-premiersports.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/my-premiersports_720/chunks.m3u8"
+  },
+  {
+    "name": "my-spotv1",
+    "logo": "https://api.bananamuffin.org/images/png/my-spotv1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/my-spotv1_720/chunks.m3u8"
+  },
+  {
+    "name": "my-spotv2",
+    "logo": "https://api.bananamuffin.org/images/png/my-spotv2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8"
+  },
+  {
+    "name": "nl-espn1",
+    "logo": "https://api.bananamuffin.org/images/png/nl-espn1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-espn1_720/chunks.m3u8"
+  },
+  {
+    "name": "nl-espn2",
+    "logo": "https://api.bananamuffin.org/images/png/nl-espn2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-espn2_720/chunks.m3u8"
+  },
+  {
+    "name": "nl-espn3",
+    "logo": "https://api.bananamuffin.org/images/png/nl-espn3.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-espn3_720/chunks.m3u8"
+  },
+  {
+    "name": "nl-espn4",
+    "logo": "https://api.bananamuffin.org/images/png/nl-espn4.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-espn4_720/chunks.m3u8"
+  },
+  {
+    "name": "nl-espn6",
+    "logo": "https://api.bananamuffin.org/images/png/nl-espn6.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-espn6_720/chunks.m3u8"
+  },
+  {
+    "name": "nl-ziggosport1",
+    "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport1_720/chunks.m3u8"
+  },
+  {
+    "name": "nl-ziggosport2",
+    "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport2_720/chunks.m3u8"
+  },
+  {
+    "name": "nl-ziggosport3",
+    "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport3.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport3_720/chunks.m3u8"
+  },
+  {
+    "name": "nl-ziggosport4",
+    "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport4.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport4_720/chunks.m3u8"
+  },
+  {
+    "name": "nl-ziggosport5",
+    "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport5.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport5_720/chunks.m3u8"
+  },
+  {
+    "name": "nl-ziggosport6",
+    "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport6.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport6_720/chunks.m3u8"
+  },
+  {
+    "name": "nz-skysport2",
+    "logo": "https://api.bananamuffin.org/images/png/nz-skysport2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nz-skysport2_720/chunks.m3u8"
+  },
+  {
+    "name": "nz-skysport3",
+    "logo": "https://api.bananamuffin.org/images/png/nz-skysport3.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nz-skysport3_720/chunks.m3u8"
+  },
+  {
+    "name": "nz-skysport4",
+    "logo": "https://api.bananamuffin.org/images/png/nz-skysport4.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nz-skysport4_720/chunks.m3u8"
+  },
+  {
+    "name": "nz-skysport5",
+    "logo": "https://api.bananamuffin.org/images/png/nz-skysport5.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nz-skysport5_720/chunks.m3u8"
+  },
+  {
+    "name": "nz-skysport8",
+    "logo": "https://api.bananamuffin.org/images/png/nz-skysport8.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nz-skysport8_720/chunks.m3u8"
+  },
+  {
+    "name": "nz-skysport9",
+    "logo": "https://api.bananamuffin.org/images/png/nz-skysport9.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/nz-skysport9_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-bein1",
+    "logo": "https://api.bananamuffin.org/images/png/hd-bein1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-bein1_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-bein10",
+    "logo": "https://api.bananamuffin.org/images/png/hd-bein10.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-bein10_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-bein11",
+    "logo": "https://api.bananamuffin.org/images/png/hd-bein11.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-bein11_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-bein12",
+    "logo": "https://api.bananamuffin.org/images/png/hd-bein12.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-bein12_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-bein2",
+    "logo": "https://api.bananamuffin.org/images/png/hd-bein2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-bein2_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-bein3",
+    "logo": "https://api.bananamuffin.org/images/png/hd-bein3.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-bein3_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-bein4",
+    "logo": "https://api.bananamuffin.org/images/png/hd-bein4.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-bein4_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-bein5",
+    "logo": "https://api.bananamuffin.org/images/png/hd-bein5.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-bein5_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-bein6",
+    "logo": "https://api.bananamuffin.org/images/png/hd-bein6.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-bein6_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-bein7",
+    "logo": "https://api.bananamuffin.org/images/png/hd-bein7.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-bein8",
+    "logo": "https://api.bananamuffin.org/images/png/hd-bein8.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-bein8_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-bein9",
+    "logo": "https://api.bananamuffin.org/images/png/hd-bein9.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-bein9_720/chunks.m3u8"
+  },
+  {
+    "name": "ru-matchfutbol1",
+    "logo": "https://api.bananamuffin.org/images/png/ru-matchfutbol1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/ru-matchfutbol1_720/chunks.m3u8"
+  },
+  {
+    "name": "ru-matchfutbol2",
+    "logo": "https://api.bananamuffin.org/images/png/ru-matchfutbol2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/ru-matchfutbol2_720/chunks.m3u8"
+  },
+  {
+    "name": "ru-matchfutbol3",
+    "logo": "https://api.bananamuffin.org/images/png/ru-matchfutbol3.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/ru-matchfutbol3_720/chunks.m3u8"
+  },
+  {
+    "name": "sg-bein1",
+    "logo": "https://api.bananamuffin.org/images/png/sg-bein1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sg-bein1_720/chunks.m3u8"
+  },
+  {
+    "name": "sg-bein2",
+    "logo": "https://api.bananamuffin.org/images/png/sg-bein2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sg-bein2_720/chunks.m3u8"
+  },
+  {
+    "name": "sg-bein3",
+    "logo": "https://api.bananamuffin.org/images/png/sg-bein3.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sg-bein3_720/chunks.m3u8"
+  },
+  {
+    "name": "sg-hubsport01",
+    "logo": "https://api.bananamuffin.org/images/png/sg-hubsport01.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sg-hubsport01_720/chunks.m3u8"
+  },
+  {
+    "name": "sg-hubsport02",
+    "logo": "https://api.bananamuffin.org/images/png/sg-hubsport02.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sg-hubsport02_720/chunks.m3u8"
+  },
+  {
+    "name": "sg-hubsport03",
+    "logo": "https://api.bananamuffin.org/images/png/sg-hubsport03.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sg-hubsport03_720/chunks.m3u8"
+  },
+  {
+    "name": "sk-arena1",
+    "logo": "https://api.bananamuffin.org/images/png/sk-arena1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sk-arena1_720/chunks.m3u8"
+  },
+  {
+    "name": "es-movistar-laliga1",
+    "logo": "https://api.bananamuffin.org/images/png/es-movistar-laliga1.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/es-movistar-laliga1_720/chunks.m3u8"
+  },
+  {
+    "name": "id-sctv",
+    "logo": "https://api.bananamuffin.org/images/png/id-sctv.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/id-sctv_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-altv4",
+    "logo": "https://api.bananamuffin.org/images/png/sd-altv4.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-altv4_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-nbt",
+    "logo": "https://api.bananamuffin.org/images/png/sd-nbt.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-nbt_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-amarin",
+    "logo": "https://api.bananamuffin.org/images/png/hd-amarin.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-amarin_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-ch3",
+    "logo": "https://api.bananamuffin.org/images/png/hd-ch3.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-ch3_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-ch5",
+    "logo": "https://api.bananamuffin.org/images/png/hd-ch5.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-ch5_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-ch7",
+    "logo": "https://api.bananamuffin.org/images/png/hd-ch7.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-ch7_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-ch8",
+    "logo": "https://api.bananamuffin.org/images/png/hd-ch8.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-ch8_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-gmmone",
+    "logo": "https://api.bananamuffin.org/images/png/hd-gmmone.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-gmmone_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-mcot",
+    "logo": "https://api.bananamuffin.org/images/png/hd-mcot.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-mcot_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-mono",
+    "logo": "https://api.bananamuffin.org/images/png/hd-mono.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-mono_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-pptv",
+    "logo": "https://api.bananamuffin.org/images/png/hd-pptv.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-thairath",
+    "logo": "https://api.bananamuffin.org/images/png/hd-thairath.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-thairath_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-tpbs",
+    "logo": "https://api.bananamuffin.org/images/png/hd-tpbs.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-tpbs_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-workpoint",
+    "logo": "https://api.bananamuffin.org/images/png/hd-workpoint.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-workpoint_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-24u",
+    "logo": "https://api.bananamuffin.org/images/png/sd-24u.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-24u_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-gmmchannel",
+    "logo": "https://api.bananamuffin.org/images/png/sd-gmmchannel.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-gmmchannel_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-nation",
+    "logo": "https://api.bananamuffin.org/images/png/sd-nation.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-nation_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-new",
+    "logo": "https://api.bananamuffin.org/images/png/sd-new.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-new_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-tnn24",
+    "logo": "https://api.bananamuffin.org/images/png/sd-tnn24.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-tnn24_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-tptv",
+    "logo": "https://api.bananamuffin.org/images/png/sd-tptv.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-tptv_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-asianmore",
+    "logo": "https://api.bananamuffin.org/images/png/hd-asianmore.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-dreamworks",
+    "logo": "https://api.bananamuffin.org/images/png/hd-dreamworks.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-axn",
+    "logo": "https://api.bananamuffin.org/images/png/hd-axn.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-axn_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-tfilm",
+    "logo": "https://api.bananamuffin.org/images/png/hd-tfilm.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-tfilm2",
+    "logo": "https://api.bananamuffin.org/images/png/hd-tfilm2.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-tfilm2_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-warnertv",
+    "logo": "https://api.bananamuffin.org/images/png/hd-warnertv.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-warnertv_720/chunks.m3u8"
+  },
+  {
+    "name": "hd-xzyte",
+    "logo": "https://api.bananamuffin.org/images/png/hd-xzyte.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-xzyte_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-filmasia",
+    "logo": "https://api.bananamuffin.org/images/png/sd-filmasia.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-moviehits",
+    "logo": "https://api.bananamuffin.org/images/png/sd-moviehits.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-series",
+    "logo": "https://api.bananamuffin.org/images/png/sd-series.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-series_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-thaifilm",
+    "logo": "https://api.bananamuffin.org/images/png/sd-thaifilm.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-asianfood",
+    "logo": "https://api.bananamuffin.org/images/png/sd-asianfood.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-asianfood_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-explife",
+    "logo": "https://api.bananamuffin.org/images/png/sd-explife.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-explife_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-expsci",
+    "logo": "https://api.bananamuffin.org/images/png/sd-expsci.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8"
+  },
+  {
+    "name": "sd-discovery",
+    "logo": "https://api.bananamuffin.org/images/png/sd-discovery.png",
+    "stream_url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-discovery_720/chunks.m3u8"
+  }
+]
