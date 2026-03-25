@@ -1,0 +1,39 @@
+name: Ball66
+
+on:
+  workflow_dispatch: # กดรันเอง
+  schedule:
+    - cron: "0 15 * * *" # ทุก 6 ชั่วโมง
+
+permissions:
+    contents: write
+
+jobs:
+    build:
+      runs-on: ubuntu-latest
+
+      steps:
+        - name: 📥 Checkout repo
+          uses: actions/checkout@v4
+
+        - name: 🟢 Setup Node.js
+          uses: actions/setup-node@v4
+          with:
+            node-version: 20
+
+        - name: 📦 Install dependencies
+          run: npm install
+
+        - name: 🚀 Run scraper
+          run: node ball66.js
+
+        - name: 💾 Commit & Push
+          run: |
+            git config --global user.name "github-actions"
+            git config --global user.email "actions@github.com"
+
+            git add playlist.json playlist.m3u
+
+            git commit -m "🔄 auto update playlist" || echo "No changes"
+
+            git push
