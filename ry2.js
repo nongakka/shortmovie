@@ -47,7 +47,9 @@ async function scrapeDetailAndEpisodes(id) {
   const $ = cheerio.load(res.data);
 
   const h1 = $("h1.text-red-500");
-  const title = h1.clone().children().remove().end().text().trim();
+  let title = h1.clone().children().remove().end().text().trim();
+  // ลบคำว่า "รายละเอียดซีรี่ส์" ถ้ามี
+  title = title.replace(/^รายละเอียดซีรี่ส์\s*/, "");
   const tag = h1.find("span").text().trim();
 
   let image = $('img').first().attr("src");
