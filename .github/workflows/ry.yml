@@ -3,7 +3,7 @@ name: RY
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 22,10 * * *"
 
 concurrency:
   group: ry-scraper
