@@ -1,33 +1,35 @@
 name: RY
-on:
-  
-  workflow_dispatch:
 
+on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 15 * * *" # ทุก 6 ชั่วโมง
+    - cron: "0 */12 * * *"
+
+concurrency:
+  group: ry-scraper
+  cancel-in-progress: true
 
 permissions:
   contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: 🟢 Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Install Dependencies
-        run: npm install
-      - name: Run Scraper
-        run: node ry2.js
-      - name: Commit JSON
-        run: |
+
+      - run: npm install
+      - run: node ry2.js
+
+      - run: |
           git config --global user.name "bot"
           git config --global user.email "bot@users.noreply.github.com"
           git add .
           git commit -m "update data" || echo "no changes"
+          git pull --rebase
           git push
