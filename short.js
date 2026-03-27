@@ -292,12 +292,7 @@ const movieData = {
       type: "hls",
       url: proxyM3U8
     },
-    {
-      name: "Direct",
-      type: "iframe",
-      url: detail.direct
-    }
-  ],
+    ],
 
   group: cat.name
 };
