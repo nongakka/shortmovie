@@ -100,19 +100,19 @@ async function scrapeDetailAndEpisodes(id) {
 
     const servers = [];
 
-    // iframe (ไม่ตาย)
-    servers.push({
-      name: `${lang}-iframe`,
-      url: iframeUrl
-    });
+// ✅ server 1: video จริง (เอามาอันดับแรก)
+if (ep.video_url) {
+  servers.push({
+    name: `${lang}-m3u8`,
+    url: ep.video_url
+  });
+}
 
-    // video จริง (อาจตาย)
-    if (ep.video_url) {
-      servers.push({
-        name: `${lang}-m3u8`,
-        url: ep.video_url
-      });
-    }
+// ✅ server 2: iframe (fallback)
+servers.push({
+  name: `${lang}-iframe`,
+  url: iframeUrl
+});
 
     episodes.push({
       name: `EP${epNum}`,
