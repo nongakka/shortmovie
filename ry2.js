@@ -70,15 +70,36 @@ async function scrapeDetailAndEpisodes(id) {
   const seriesData = JSON.parse(match[1]);
   if (!seriesData?.episodes) return null;
 
-  const episodes = seriesData.episodes.map(ep => ({
-    name: `EP${ep.episode_number}`,
-    servers: [
-      {
-        name: tag.includes("พากย์ไทย") ? "TH" : "EN",
-        url: ep.video_url
-      }
-    ]
-  }));
+  const episodes = seriesData.episodes.map(ep => {
+
+  const epNum = ep.episode_number;
+
+  // 🔥 สร้าง iframe URL
+  const iframeUrl = `${BASE}/watch/?series_id=${id}&ep=${epNum}`;
+
+  const lang = tag.includes("พากย์ไทย") ? "TH" : "EN";
+
+  const servers = [];
+
+  // ✅ server 1: iframe (ไม่ตาย)
+  servers.push({
+    name: `${lang}-iframe`,
+    url: iframeUrl
+  });
+
+  // ✅ server 2: video จริง (อาจตาย)
+  if (ep.video_url) {
+    servers.push({
+      name: `${lang}-m3u8`,
+      url: ep.video_url
+    });
+  }
+
+  return {
+    name: `EP${epNum}`,
+    servers
+  };
+});
 
   return {
     title,
