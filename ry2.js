@@ -48,7 +48,6 @@ async function scrapeDetailAndEpisodes(id) {
 
   const h1 = $("h1.text-red-500");
   let title = h1.clone().children().remove().end().text().trim();
-  // ลบคำว่า "รายละเอียดซีรี่ส์" ถ้ามี
   title = title.replace(/^รายละเอียดซีรี่ส์\s*/, "");
   const tag = h1.find("span").text().trim();
 
@@ -70,36 +69,64 @@ async function scrapeDetailAndEpisodes(id) {
   const seriesData = JSON.parse(match[1]);
   if (!seriesData?.episodes) return null;
 
-  const episodes = seriesData.episodes.map(ep => {
-
-  const epNum = ep.episode_number;
-
-  // 🔥 สร้าง iframe URL
-  const iframeUrl = `${BASE}/watch/?series_id=${id}&ep=${epNum}`;
-
+  const episodes = [];
   const lang = tag.includes("พากย์ไทย") ? "TH" : "EN";
 
-  const servers = [];
+  // ===== 🔍 เช็คว่ามี EP1 ไหม =====
+  const hasEp1 = seriesData.episodes.some(
+    ep => ep.episode_number === 1
+  );
 
-  // ✅ server 1: iframe (ไม่ตาย)
-  servers.push({
-    name: `${lang}-iframe`,
-    url: iframeUrl
-  });
-
-  // ✅ server 2: video จริง (อาจตาย)
-  if (ep.video_url) {
-    servers.push({
-      name: `${lang}-m3u8`,
-      url: ep.video_url
+  // ===== ✅ สร้าง EP1 ถ้าไม่มี =====
+  if (!hasEp1) {
+    episodes.push({
+      name: "EP1",
+      servers: [
+        {
+          name: `${lang}-iframe`,
+          url: `${BASE}/watch/?series_id=${id}`
+        }
+      ]
     });
   }
 
-  return {
-    name: `EP${epNum}`,
-    servers
-  };
-});
+  // ===== ✅ EP2+ (หรือ EP1 ถ้ามีอยู่แล้ว) =====
+  seriesData.episodes.forEach(ep => {
+
+    const epNum = ep.episode_number;
+    const iframeUrl = epNum === 1
+      ? `${BASE}/watch/?series_id=${id}`
+      : `${BASE}/watch/?series_id=${id}&ep=${epNum}`;
+
+    const servers = [];
+
+    // iframe (ไม่ตาย)
+    servers.push({
+      name: `${lang}-iframe`,
+      url: iframeUrl
+    });
+
+    // video จริง (อาจตาย)
+    if (ep.video_url) {
+      servers.push({
+        name: `${lang}-m3u8`,
+        url: ep.video_url
+      });
+    }
+
+    episodes.push({
+      name: `EP${epNum}`,
+      servers
+    });
+
+  });
+
+  // ===== 🔥 เรียงตอนให้ถูก =====
+  episodes.sort((a, b) => {
+    const aNum = parseInt(a.name.replace("EP", ""));
+    const bNum = parseInt(b.name.replace("EP", ""));
+    return aNum - bNum;
+  });
 
   return {
     title,
