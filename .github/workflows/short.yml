@@ -1,46 +1,49 @@
-name: Anime108
+name: Short Movies
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 15 * * *" # ทุกวัน 22:00 ไทย
+    workflow_dispatch: # กดรันเอง
+    schedule:
+      - cron: "0 15 * * *" # ทุก 6 ชั่วโมง
 
 permissions:
-  contents: write
+    contents: write
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. โหลด repo
-      - name: Checkout
+      - name: 📥 Checkout
+
         uses: actions/checkout@v4
 
-      # 2. Node
-      - name: Setup Node
+      - name: 🟢 Setup Node
+
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      # 3. ติดตั้ง package
-      - name: Install dependencies
-        run: npm install axios cheerio
+      - name: 📦 Install dependencies
+        run: |
+          npm install
 
-      # 4. รัน
-      - name: Run scraper
-        run: node anime108.js
+      - name: Install Chrome for Puppeteer
+        run: npx puppeteer browsers install chrome
 
-      # 5. push แบบปลอดภัย
-      - name: Push changes
+      - name: 🚀 Run scraper
+        run: node short.js
+
+
+      - name: 💾 Commit results
+
         run: |
           git config --global user.name "bot"
           git config --global user.email "bot@users.noreply.github.com"
           git add .
 
           git commit -m "update data" || echo "no changes"
+          git pull --rebase origin main || echo "no remote changes"
 
-          # 🔥 ปลอดภัยกว่า rebase
-          git pull origin main --no-rebase || echo "no remote changes"
+
 
           git push origin HEAD:main
