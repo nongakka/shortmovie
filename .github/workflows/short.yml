@@ -1,9 +1,9 @@
 name: Short Movies
 
 on:
-    workflow_dispatch: # กดรันเอง
+    workflow_dispatch:
     schedule:
-      - cron: "0 15 * * *" # ทุก 6 ชั่วโมง
+      - cron: "0 15 * * *"
 
 permissions:
     contents: write
