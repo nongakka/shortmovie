@@ -227,6 +227,18 @@ async function run() {
   const browser = await initBrowser();
   const page = await browser.newPage();
   const allResults = [];
+  let oldData = [];
+
+try {
+  const raw = await fs.readFile("json/all.json", "utf-8");
+  oldData = JSON.parse(raw);
+  console.log("📦 old:", oldData.length);
+} catch {
+  console.log("ℹ️ no old data");
+}
+
+const oldSet = new Set(oldData.map(m => m.link).filter(Boolean));
+  
 // 👇 เพิ่มตรงนี้
 await page.setUserAgent(
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
@@ -262,6 +274,11 @@ if (movies.length === 0) {
 
     for (const m of movies) {
       i++;
+      if (oldSet.has(m.link)) {
+  console.log("⏭️ skip old:", m.link);
+  continue;
+}      
+      
       console.log(`➡️ ${i}/${movies.length}`);
 
       try {
@@ -285,7 +302,8 @@ const proxyM3U8 = toProxy(m3u8) || m3u8;
 const movieData = {
   title: detail.title,
   poster: detail.poster,
-
+  link: m.link,
+  
   servers: [
     {
       name: "M3U8",
@@ -299,7 +317,8 @@ const movieData = {
 
 results.push(movieData);
 allResults.push(movieData); // 🔥 เก็บรวม
-
+oldSet.add(m.link);
+        
         console.log("✅ OK");
 
         await sleep(1500);
