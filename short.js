@@ -190,12 +190,15 @@ async function getM3U8FromDirect(page, url) {
 // save m3u
 // --------------------
 async function saveM3U(category, movies) {
-  const safe = category.replace(/[\\/:*?"<>|]/g, "");
+  const cleanCategory = category.replace(/\s+\d+$/, "");
 
-  let content = "#EXTM3U\n";
+const safe = cleanCategory
+  .replace(/[\\/:*?"<>|]/g, "");
 
-  for (const m of movies) {
-    content += `#EXTINF:-1 tvg-logo="${m.logo}" group-title="${category}",${m.title}\n`;
+let content = "#EXTM3U\n";
+
+for (const m of movies) {
+  content += `#EXTINF:-1 tvg-logo="${m.logo}" group-title="${cleanCategory}",${m.title}\n`;
     content += `${m.servers[0].url}\n\n`;
   }
 
@@ -314,7 +317,7 @@ const movieData = {
     },
     ],
 
-  group: cat.name
+  group: cat.name.replace(/\s+\d+$/, "")
 };
 
 results.push(movieData);
@@ -330,10 +333,15 @@ oldSet.add(m.link);
       }
     }
 
-    const safe = cat.name.replace(/[\\/:*?"<>|]/g, "");
+    const safe = cat.name
+  .replace(/\s+\d+$/, "")   // 🔥 ตัดเลขท้าย
+  .replace(/[\\/:*?"<>|]/g, "");
+    
     await fs.writeFile(`json/${safe}.json`, JSON.stringify(results, null, 2));
 
-    await saveM3U(cat.name, results);
+    const cleanName = cat.name.replace(/\s+\d+$/, "");
+
+await saveM3U(cleanName, results);
 
     console.log("💾 saved:", cat.name);
   }
