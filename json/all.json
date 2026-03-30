@@ -11997,5 +11997,83 @@
       }
     ],
     "group": "โคตรฮิต"
+  },
+  {
+    "title": "ข้ามเวลามาเป็นคุณทวด",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/db1794e4d236a8c702c90d07d3d099e5.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1036",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/eff73e67-0a03-4ced-be2b-6fb0ef00d73b/playlist.m3u8"
+      }
+    ],
+    "group": "ข้ามมิติ"
+  },
+  {
+    "title": "รักในม่านลับ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/1bd4dcd0fbd6f39e67533d981522f8b6.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1038",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/692e48b2-91d1-47de-9e71-dabf6668ef26/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "แสงรักในความมืด",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/d13a67b8f656af16f01ce15af2fa6f9d.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1037",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/5b7258c7-0597-4819-a936-bcbef60bac61/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "เดิมพันหัวใจทายาทหมื่นล้าน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/6176e6e3f9aa9664d86417e86984e661.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1039",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/2ec8ea19-28b1-4154-bc8e-7783d7e0aa13/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "คุณหนูตัวร้ายกับองค์ชายสี่",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/4b095bc97bfe4655ad78e7b8f8c792de.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1040",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/f201a795-e7bf-41e2-a396-08d5d3371498/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
+  },
+  {
+    "title": "เจ้าสาวโรงงานพันธ์ุพิเศษ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/3b62296d62aa4be536617d9dc9059c8b.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1041",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/c44c42a3-b090-4b51-9323-a7e2de496746/playlist.m3u8"
+      }
+    ],
+    "group": "แก้แค้น"
   }
 ]
