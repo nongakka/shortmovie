@@ -226,7 +226,6 @@ async function saveAllJSON(movies) {
 async function run() {
   const browser = await initBrowser();
   const page = await browser.newPage();
-  const allResults = [];
   let oldData = [];
 
 try {
@@ -236,6 +235,9 @@ try {
 } catch {
   console.log("ℹ️ no old data");
 }
+
+// ✅ 🔥 เอาของเก่ามาเป็น base
+const allResults = [...oldData];
 
 const oldSet = new Set(oldData.map(m => m.link).filter(Boolean));
   
@@ -341,8 +343,8 @@ const seen = new Set();
 const unique = [];
 
 for (const m of allResults) {
-  if (!seen.has(m.servers[0].url)) {
-  seen.add(m.servers[0].url);
+  if (!seen.has(m.link)) {
+    seen.add(m.link);
     unique.push(m);
   }
 }
