@@ -12075,5 +12075,96 @@
       }
     ],
     "group": "แก้แค้น"
+  },
+  {
+    "title": "เมียอ้วนพลิกฟื้นในยุค80",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/75ba4d29ef698b462c99e59dae05ef1d.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1048",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/f79971e8-1722-4be2-aa94-749854e3c848/playlist.m3u8"
+      }
+    ],
+    "group": "ข้ามมิติ"
+  },
+  {
+    "title": "ชีวิตใหม่ของอดีตคนคลั่งรัก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/bc5118127bd716235c2b1c9d7f45f7b4.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1044",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/42af8653-c630-4447-9c30-e7dc6d5123da/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "เธอคนนี้รักกี่ทีก็ไม่พอ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/546f515f7a89a5ab76e7c1d480ab7aaa.png",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1043",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/421d19be-c77a-4466-b738-49754c361efe/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "ชีวิตที่เปล่งประกายอีกครั้ง",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/42a02a17dffc0ae1f1560208b00e6039.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1042",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/343684bd-0dad-441d-af28-7c8987f73b55/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "บอดี้การ์ดแฟนหนุ่มของผู้บริหารสาว",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/61a96e4f7077f229a0a43a7c71a09c00.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1045",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/4d07db8e-df12-41a1-bba7-ba092f4d03b3/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "คนบ้านข้าต้องได้กินดี",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/315768cb77abb12dee732e637c46fcb4.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1047",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/f2edffac-fcb5-447c-add1-a5f846b4a0d5/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
+  },
+  {
+    "title": "รักที่ถูกบีบคันจนเสียใจ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/d27617fe742c5ac03a31ac020cf07efe.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1046",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/4b181308-1d38-4409-b70e-ae237fd8d98a/playlist.m3u8"
+      }
+    ],
+    "group": "แก้แค้น"
   }
 ]
