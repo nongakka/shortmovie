@@ -12166,5 +12166,96 @@
       }
     ],
     "group": "แก้แค้น"
+  },
+  {
+    "title": "กระสุนพิชิตใจจอมพล",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/9e87d7c7da864fd28291c0de4c14d167.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1052",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/c0224353-6280-4c32-9cbf-a0c54d290797/playlist.m3u8"
+      }
+    ],
+    "group": "ข้ามมิติ"
+  },
+  {
+    "title": "สู่อ้อมกอดรักแท้",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/a5a9fe7656855ee264c58ef38576e641.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1054",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/43480122-c486-493c-a098-973f862bfae1/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "ภารกิจจีบหนุ่มครอบจักรวาล",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/e80972cdb424950a66232aa52870b765.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1051",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/1477d76d-6f42-4b2f-a8ef-a7cf602afe1b/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "มรดกของฉันคือเธอ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/acb80693566c89dc48654d8167c010cd.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1049",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/f73bb51a-8fcf-42bb-9a58-6015fbb20fc7/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "แม่คนนี้ใครก็ห้ามแตะ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/49e54a1d65bbb2668d8cc0c78faffb52.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1050",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/36848c62-0e2c-48c3-9c5e-b3d6cdd1ced5/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ชาตินี้ได้ฮ่องเต้เป็นสามี",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/0e5aa4fdedd749ffca58cc0614ddea9f.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1055",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/b002a203-8285-4f49-b0d3-5ba035e67ce9/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
+  },
+  {
+    "title": "วาร์ปมา11ปีพลิกชะตา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/4dd879047b051875ee3900d34ae6d789.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1053",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/4308d869-d2cc-4086-945d-1ad0bdba6f33/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
   }
 ]
