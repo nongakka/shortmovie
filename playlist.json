@@ -1,28 +1,5 @@
 [
   {
-    "title": "th-monomax01",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax01.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
     "title": "th-monomax01bkp",
     "group": "Dooball",
     "logo": "https://api.bananamuffin.org/images/png/th-monomax01bkp.png",
@@ -42,29 +19,6 @@
       {
         "name": "Backup 3",
         "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax01bkp_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax02",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax02.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8"
       }
     ]
   },
@@ -111,489 +65,6 @@
       {
         "name": "Backup 3",
         "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax02eng_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax03",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax03.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax03bkp",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax03bkp.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax03bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax03bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax03bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax03bkp_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax04bkp",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax04bkp.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax04bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax04bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax04bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax04bkp_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax05",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax05.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax05_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax05_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax05_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax05_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax05bkp",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax05bkp.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax05bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax05bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax05bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax05bkp_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax06",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax06.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax06bkp",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax06bkp.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax06bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax06bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax06bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax06bkp_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax07",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax07.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax07_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax07_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax07_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax07_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax07bkp",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax07bkp.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax07bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax07bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax07bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax07bkp_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax08",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax08.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax08bkp",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax08bkp.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax08bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax08bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax08bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax08bkp_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax09",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax09.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax09bkp",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax09bkp.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax09bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax09bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax09bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax09bkp_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax10",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax10.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax10_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax10_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax10_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax10_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax10bkp",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax10bkp.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax10bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax10bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax10bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax10bkp_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax11",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax11.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax11_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax11_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax11_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax11_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-monomax11bkp",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-monomax11bkp.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-monomax11bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-monomax11bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-monomax11bkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax11bkp_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-tsporthd2",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-tsporthd2.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-tsporthd2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-tsporthd2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-tsporthd2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-tsporthd2_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "th-tsporthd3",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/th-tsporthd3.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/th-tsporthd3_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/th-tsporthd3_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/th-tsporthd3_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/th-tsporthd3_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "hd-golf2",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/hd-golf2.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-golf2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-golf2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-golf2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-golf2_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "hd-tsport4",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/hd-tsport4.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8"
       }
     ]
   },
@@ -690,121 +161,6 @@
     ]
   },
   {
-    "title": "au-fox501",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/au-fox501.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/au-fox501_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/au-fox501_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/au-fox501_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/au-fox501_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "au-fox502",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/au-fox502.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/au-fox502_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/au-fox502_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/au-fox502_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/au-fox502_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "au-fox503",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/au-fox503.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/au-fox503_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/au-fox503_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/au-fox503_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/au-fox503_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "au-fox504",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/au-fox504.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/au-fox504_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/au-fox504_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/au-fox504_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/au-fox504_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "au-fox505",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/au-fox505.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/au-fox505_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/au-fox505_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/au-fox505_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/au-fox505_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
     "title": "au-fox506",
     "group": "Dooball",
     "logo": "https://api.bananamuffin.org/images/png/au-fox506.png",
@@ -824,167 +180,6 @@
       {
         "name": "Backup 3",
         "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/au-fox506_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "au-fox507",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/au-fox507.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/au-fox507_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/au-fox507_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/au-fox507_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/au-fox507_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "au-racing",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/au-racing.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/au-racing_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/au-racing_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/au-racing_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/au-racing_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "au-skyracing1",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/au-skyracing1.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/au-skyracing1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/au-skyracing1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/au-skyracing1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/au-skyracing1_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "au-skyracing2",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/au-skyracing2.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/au-skyracing2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/au-skyracing2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/au-skyracing2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/au-skyracing2_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "ca-tsn1",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/ca-tsn1.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/ca-tsn1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/ca-tsn1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/ca-tsn1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/ca-tsn1_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "ca-tsn2",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/ca-tsn2.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/ca-tsn2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/ca-tsn2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/ca-tsn2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/ca-tsn2_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "ca-tsn3",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/ca-tsn3.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/ca-tsn3_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/ca-tsn3_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/ca-tsn3_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/ca-tsn3_720/chunks.m3u8"
       }
     ]
   },
@@ -1127,52 +322,6 @@
     ]
   },
   {
-    "title": "my-arena1",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/my-arena1.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/my-arena1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/my-arena1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/my-arena1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/my-arena1_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "my-arena2",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/my-arena2.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/my-arena2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/my-arena2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/my-arena2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/my-arena2_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
     "title": "my-astro-football",
     "group": "Dooball",
     "logo": "https://api.bananamuffin.org/images/png/my-astro-football.png",
@@ -1238,29 +387,6 @@
       {
         "name": "Backup 3",
         "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/my-astro-sportsplus_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "my-bein1",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/my-bein1.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/my-bein1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/my-bein1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/my-bein1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/my-bein1_720/chunks.m3u8"
       }
     ]
   },
@@ -1334,25 +460,25 @@
     ]
   },
   {
-    "title": "my-spotv1",
+    "title": "my-premiersports",
     "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/my-spotv1.png",
+    "logo": "https://api.bananamuffin.org/images/png/my-premiersports.png",
     "servers": [
       {
         "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/my-spotv1_720/chunks.m3u8"
+        "url": "https://love.sikoyo3159.workers.dev/lx-origin/my-premiersports_720/chunks.m3u8"
       },
       {
         "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/my-spotv1_720/chunks.m3u8"
+        "url": "https://love.tivov68423.workers.dev/lx-origin/my-premiersports_720/chunks.m3u8"
       },
       {
         "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/my-spotv1_720/chunks.m3u8"
+        "url": "https://love.tecobo5568.workers.dev/lx-origin/my-premiersports_720/chunks.m3u8"
       },
       {
         "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/my-spotv1_720/chunks.m3u8"
+        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/my-premiersports_720/chunks.m3u8"
       }
     ]
   },
@@ -1376,52 +502,6 @@
       {
         "name": "Backup 3",
         "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "nl-espn1",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/nl-espn1.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-espn1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/nl-espn1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/nl-espn1_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/nl-espn1_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "nl-espn2",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/nl-espn2.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-espn2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/nl-espn2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/nl-espn2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/nl-espn2_720/chunks.m3u8"
       }
     ]
   },
@@ -1472,25 +552,25 @@
     ]
   },
   {
-    "title": "nl-espn6",
+    "title": "nl-espn5",
     "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/nl-espn6.png",
+    "logo": "https://api.bananamuffin.org/images/png/nl-espn5.png",
     "servers": [
       {
         "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-espn6_720/chunks.m3u8"
+        "url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-espn5_720/chunks.m3u8"
       },
       {
         "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/nl-espn6_720/chunks.m3u8"
+        "url": "https://love.tivov68423.workers.dev/lx-origin/nl-espn5_720/chunks.m3u8"
       },
       {
         "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/nl-espn6_720/chunks.m3u8"
+        "url": "https://love.tecobo5568.workers.dev/lx-origin/nl-espn5_720/chunks.m3u8"
       },
       {
         "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/nl-espn6_720/chunks.m3u8"
+        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/nl-espn5_720/chunks.m3u8"
       }
     ]
   },
@@ -1541,29 +621,6 @@
     ]
   },
   {
-    "title": "nl-ziggosport3",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport3.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport3_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/nl-ziggosport3_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/nl-ziggosport3_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/nl-ziggosport3_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
     "title": "nl-ziggosport4",
     "group": "Dooball",
     "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport4.png",
@@ -1583,29 +640,6 @@
       {
         "name": "Backup 3",
         "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/nl-ziggosport4_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "nl-ziggosport5",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport5.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport5_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/nl-ziggosport5_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/nl-ziggosport5_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/nl-ziggosport5_720/chunks.m3u8"
       }
     ]
   },
@@ -1675,29 +709,6 @@
       {
         "name": "Backup 3",
         "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/nz-skysport3_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "nz-skysport4",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/nz-skysport4.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/nz-skysport4_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/nz-skysport4_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/nz-skysport4_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/nz-skysport4_720/chunks.m3u8"
       }
     ]
   },
@@ -2001,6 +1012,29 @@
     ]
   },
   {
+    "title": "hd-bein7",
+    "group": "Dooball",
+    "logo": "https://api.bananamuffin.org/images/png/hd-bein7.png",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 1",
+        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 2",
+        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 3",
+        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8"
+      }
+    ]
+  },
+  {
     "title": "hd-bein8",
     "group": "Dooball",
     "logo": "https://api.bananamuffin.org/images/png/hd-bein8.png",
@@ -2020,6 +1054,29 @@
       {
         "name": "Backup 3",
         "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-bein8_720/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "hd-bein9",
+    "group": "Dooball",
+    "logo": "https://api.bananamuffin.org/images/png/hd-bein9.png",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-bein9_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 1",
+        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-bein9_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 2",
+        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-bein9_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 3",
+        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-bein9_720/chunks.m3u8"
       }
     ]
   },
@@ -2116,71 +1173,25 @@
     ]
   },
   {
-    "title": "sg-bein2",
+    "title": "sg-hubsport01",
     "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/sg-bein2.png",
+    "logo": "https://api.bananamuffin.org/images/png/sg-hubsport01.png",
     "servers": [
       {
         "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sg-bein2_720/chunks.m3u8"
+        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sg-hubsport01_720/chunks.m3u8"
       },
       {
         "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/sg-bein2_720/chunks.m3u8"
+        "url": "https://love.tivov68423.workers.dev/lx-origin/sg-hubsport01_720/chunks.m3u8"
       },
       {
         "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/sg-bein2_720/chunks.m3u8"
+        "url": "https://love.tecobo5568.workers.dev/lx-origin/sg-hubsport01_720/chunks.m3u8"
       },
       {
         "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sg-bein2_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "sg-bein3",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/sg-bein3.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sg-bein3_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/sg-bein3_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/sg-bein3_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sg-bein3_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "sg-hubsport02",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/sg-hubsport02.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sg-hubsport02_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/sg-hubsport02_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/sg-hubsport02_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sg-hubsport02_720/chunks.m3u8"
+        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sg-hubsport01_720/chunks.m3u8"
       }
     ]
   },
@@ -2254,75 +1265,6 @@
     ]
   },
   {
-    "title": "hd-monobkp",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/hd-monobkp.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-monobkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-monobkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-monobkp_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-monobkp_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "sd-altv4",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/sd-altv4.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-altv4_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/sd-altv4_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/sd-altv4_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-altv4_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "sd-nbt",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/sd-nbt.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-nbt_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/sd-nbt_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/sd-nbt_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-nbt_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
     "title": "hd-amarin",
     "group": "Dooball",
     "logo": "https://api.bananamuffin.org/images/png/hd-amarin.png",
@@ -2369,71 +1311,25 @@
     ]
   },
   {
-    "title": "hd-ch5",
+    "title": "hd-ch8",
     "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/hd-ch5.png",
+    "logo": "https://api.bananamuffin.org/images/png/hd-ch8.png",
     "servers": [
       {
         "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-ch5_720/chunks.m3u8"
+        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-ch8_480/chunks.m3u8"
       },
       {
         "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-ch5_720/chunks.m3u8"
+        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-ch8_480/chunks.m3u8"
       },
       {
         "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-ch5_720/chunks.m3u8"
+        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-ch8_480/chunks.m3u8"
       },
       {
         "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-ch5_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "hd-ch7",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/hd-ch7.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-ch7_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-ch7_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-ch7_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-ch7_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "hd-mcot",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/hd-mcot.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-mcot_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-mcot_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-mcot_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-mcot_720/chunks.m3u8"
+        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-ch8_480/chunks.m3u8"
       }
     ]
   },
@@ -2461,25 +1357,71 @@
     ]
   },
   {
-    "title": "hd-thairath",
+    "title": "hd-pptv",
     "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/hd-thairath.png",
+    "logo": "https://api.bananamuffin.org/images/png/hd-pptv.png",
     "servers": [
       {
         "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-thairath_720/chunks.m3u8"
+        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8"
       },
       {
         "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-thairath_720/chunks.m3u8"
+        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8"
       },
       {
         "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-thairath_720/chunks.m3u8"
+        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8"
       },
       {
         "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-thairath_720/chunks.m3u8"
+        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "hd-tpbs",
+    "group": "Dooball",
+    "logo": "https://api.bananamuffin.org/images/png/hd-tpbs.png",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-tpbs_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 1",
+        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-tpbs_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 2",
+        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-tpbs_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 3",
+        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-tpbs_720/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "hd-workpoint",
+    "group": "Dooball",
+    "logo": "https://api.bananamuffin.org/images/png/hd-workpoint.png",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-workpoint_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 1",
+        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-workpoint_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 2",
+        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-workpoint_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 3",
+        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-workpoint_720/chunks.m3u8"
       }
     ]
   },
@@ -2503,6 +1445,29 @@
       {
         "name": "Backup 3",
         "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-24u_480/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "sd-gmmchannel",
+    "group": "Dooball",
+    "logo": "https://api.bananamuffin.org/images/png/sd-gmmchannel.png",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-gmmchannel_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 1",
+        "url": "https://love.tivov68423.workers.dev/lx-origin/sd-gmmchannel_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 2",
+        "url": "https://love.tecobo5568.workers.dev/lx-origin/sd-gmmchannel_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 3",
+        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-gmmchannel_720/chunks.m3u8"
       }
     ]
   },
@@ -2599,98 +1564,6 @@
     ]
   },
   {
-    "title": "hd-asianmore",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/hd-asianmore.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "hd-dreamworks",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/hd-dreamworks.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "hd-tfilm",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/hd-tfilm.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "hd-tfilm2",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/hd-tfilm2.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-tfilm2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-tfilm2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-tfilm2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-tfilm2_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
     "title": "hd-warnertv",
     "group": "Dooball",
     "logo": "https://api.bananamuffin.org/images/png/hd-warnertv.png",
@@ -2714,121 +1587,6 @@
     ]
   },
   {
-    "title": "hd-xzyte",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/hd-xzyte.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/hd-xzyte_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/hd-xzyte_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/hd-xzyte_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-xzyte_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "sd-filmasia",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/sd-filmasia.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "sd-moviehits",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/sd-moviehits.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "sd-series",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/sd-series.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-series_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/sd-series_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/sd-series_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-series_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "sd-thaifilm",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/sd-thaifilm.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
     "title": "sd-asianfood",
     "group": "Dooball",
     "logo": "https://api.bananamuffin.org/images/png/sd-asianfood.png",
@@ -2848,52 +1606,6 @@
       {
         "name": "Backup 3",
         "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-asianfood_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "sd-explife",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/sd-explife.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-explife_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/sd-explife_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/sd-explife_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-explife_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "sd-expsci",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/sd-expsci.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8"
       }
     ]
   },
