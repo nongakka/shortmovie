@@ -1,39 +1,26 @@
 [
   {
-    "title": "สู่อ้อมกอดรักแท้",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/a5a9fe7656855ee264c58ef38576e641.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1054",
+    "title": "จากหมากเกมสู่คนสำคัญ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/416f53fa6436aa41c5747bdc39779fa6.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1059",
     "servers": [
       {
         "name": "M3U8",
         "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/43480122-c486-493c-a098-973f862bfae1/playlist.m3u8"
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/5b877444-3654-407e-8d2f-00cfd9c857bf/playlist.m3u8"
       }
     ],
     "group": "ความรัก"
   },
   {
-    "title": "ภารกิจจีบหนุ่มครอบจักรวาล",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/e80972cdb424950a66232aa52870b765.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1051",
+    "title": "รักครั้งใหม่ของเธอ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/366ceffbf947d1324a2b6dc9dd0e8506.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1058",
     "servers": [
       {
         "name": "M3U8",
         "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/1477d76d-6f42-4b2f-a8ef-a7cf602afe1b/playlist.m3u8"
-      }
-    ],
-    "group": "ความรัก"
-  },
-  {
-    "title": "มรดกของฉันคือเธอ",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/acb80693566c89dc48654d8167c010cd.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1049",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/f73bb51a-8fcf-42bb-9a58-6015fbb20fc7/playlist.m3u8"
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/416576ad-2657-4946-bdba-d7af64a3481e/playlist.m3u8"
       }
     ],
     "group": "ความรัก"
