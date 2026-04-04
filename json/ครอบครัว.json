@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "title": "แผนรักกามเทพน้อย",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/0d29c3ca0995af8e72bb198345ff91b3.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1067",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/d8751db5-ace9-46cc-b86f-3ec7f8ca4d20/playlist.m3u8"
+      }
+    ],
+    "group": "ครอบครัว"
+  }
+]

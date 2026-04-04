@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "title": "จินหลวนพระคุณแม่เหนือบัลลังก์",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/cfb820b1d01d6312f21d2e92de51780f.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1110",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/b8046ec4-6e0a-4bd5-836b-86d3ef1cad10/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
+  },
+  {
+    "title": "แผนสลับบุตรใต้บัลลังก์หงส์",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/883ffcfba50434d3a0aadb8553b80282.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1104",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/9d49c6d0-c3dc-486c-a99e-4560f3f6c57e/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
+  },
+  {
+    "title": "ภรรยาผู้เกรี้ยวกราด",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/6078b991301a5ca1ff08d7c5627fe7cf.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1092",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/e42931f1-0de7-4254-a25c-aeb77187f339/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
+  },
+  {
+    "title": "ยอดยุทธผู้ถูกทอดทิ้ง",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/2dae81d6f8ed637f3fb01d694b1ec983.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1091",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/313a4dbc-7646-4948-a278-92e3b7fd5842/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
+  }
+]

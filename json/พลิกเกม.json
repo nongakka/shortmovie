@@ -1,13 +1,143 @@
 [
   {
-    "title": "หมอหนุ่มผู้เขียนชะตาใหม่๒",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/eaf39026abca83c949b6de9caf03560f.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1057",
+    "title": "เศรษฐีเดลิเวอรี่",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/4f395bb2e69cc4a5bbf01454b1170101.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1111",
     "servers": [
       {
         "name": "M3U8",
         "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/98208905-f77e-463e-9939-2fb5ff6a3bd2/playlist.m3u8"
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/1f8d3a46-0644-4a98-bf96-9597decb1d92/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ฟังใจลูกพลิกทุกด่านชีวิต",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/49513f4c78f27da223c3ed3068437d5e.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1107",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/6fcbcb09-8372-4222-8123-24baa8a4bbe0/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ดวงตานี้เห็นทุกสมบัติ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/b4f534335ac76607717839589d3368c8.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1100",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/e1e07091-66b9-436f-8d6d-7bc9f76f2177/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ทรยศบนเมฆ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/86b2ebec19cafc3abf8a10eb4f0a15ad.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1097",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/2591a0d4-1a84-4641-996a-b4dbda46a75a/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "พ่อบ้านของฉันคือราชานักพนัน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f7195284822eaba0a19b660e8a954de8.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1087",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/375a88f4-993d-4547-a017-34f9419a6427/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ติดคุกวันวานวันนี้คือราชาพนัน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/b58aa416a02ab9c807505eae72741d97.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1085",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/6dd96fd9-c8f0-490b-8b83-cdd87fe4e9ca/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "เชิดใส่สามีทรยศคืนรังนางงิ้ว",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/677c377d4e2a1c74838ce7c6ec016cb3.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1084",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/6c111540-66fc-4929-a2e5-a37dc9dfbf83/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "พี่สาวฉันคือราชินีจอมทัพ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/6ab1b54a3bc71e9627e735281134ccc6.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1083",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/abcea908-6519-4580-89f3-46afa7c0fc11/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "เจ้าสาวของแวมไพร์",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/2abe3b4a5474362d921bc159d9b9cd84.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1082",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/5a14a67c-df71-4671-95de-60bae784eda0/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "หลังทรยศเธอกลับมาคุกเข่า",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/778d967e6cdef1ec2ade99555cacd8c5.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1081",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/4acec795-3570-46b4-9c43-a8726c47c886/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "หัตถ์กุมโชค",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/e3a395909ed904deec01b68b0114f4a9.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1069",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/b69e0438-60b7-466c-ad6f-0168a9995e8a/playlist.m3u8"
       }
     ],
     "group": "พลิกเกม"
